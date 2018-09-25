@@ -1,0 +1,368 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="fd4f7a1b-11dc-4642-990c-9d66fe1b9430" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/build.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/appMenus/Salesforce1.appMenu" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assignmentRules/Case.assignmentRules" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assignmentRules/Lead.assignmentRules" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/autoResponseRules/Case.autoResponseRules" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/autoResponseRules/Lead.autoResponseRules" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/classes/GetProductController.cls" beforeDir="false" afterPath="$PROJECT_DIR$/src/classes/GetProductController.cls" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/classes/GetProductController.cls-meta.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/classes/GetProductController.cls-meta.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/communities/Internal Zone.community" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/connectedApps/CPQIntegrationUserApp.connectedApp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/layouts/Product__c-Product Layout.layout" beforeDir="false" afterPath="$PROJECT_DIR$/src/layouts/Product__c-Product Layout.layout" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/objectTranslations/Company__c-en_US.objectTranslation" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/objectTranslations/Contacts__c-en_US.objectTranslation" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/objectTranslations/Discount__c-en_US.objectTranslation" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/objectTranslations/Product__c-en_US.objectTranslation" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/objectTranslations/Store__c-en_US.objectTranslation" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/objectTranslations/raw_material__c-en_US.objectTranslation" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/objects/Product__c.object" beforeDir="false" afterPath="$PROJECT_DIR$/src/objects/Product__c.object" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/objects/Store__c.object" beforeDir="false" afterPath="$PROJECT_DIR$/src/objects/Store__c.object" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/objects/raw_material__c.object" beforeDir="false" afterPath="$PROJECT_DIR$/src/objects/raw_material__c.object" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/package.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/package.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/profiles/Admin.profile" beforeDir="false" afterPath="$PROJECT_DIR$/src/profiles/Admin.profile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/profiles/Analytics Cloud Integration User.profile" beforeDir="false" afterPath="$PROJECT_DIR$/src/profiles/Analytics Cloud Integration User.profile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/profiles/Analytics Cloud Security User.profile" beforeDir="false" afterPath="$PROJECT_DIR$/src/profiles/Analytics Cloud Security User.profile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/profiles/Authenticated Website.profile" beforeDir="false" afterPath="$PROJECT_DIR$/src/profiles/Authenticated Website.profile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/profiles/CPQ Integration User.profile" beforeDir="false" afterPath="$PROJECT_DIR$/src/profiles/CPQ Integration User.profile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/profiles/Chatter External User.profile" beforeDir="false" afterPath="$PROJECT_DIR$/src/profiles/Chatter External User.profile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/profiles/Chatter Free User.profile" beforeDir="false" afterPath="$PROJECT_DIR$/src/profiles/Chatter Free User.profile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/profiles/Chatter Moderator User.profile" beforeDir="false" afterPath="$PROJECT_DIR$/src/profiles/Chatter Moderator User.profile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/profiles/ContractManager.profile" beforeDir="false" afterPath="$PROJECT_DIR$/src/profiles/ContractManager.profile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/profiles/Cross Org Data Proxy User.profile" beforeDir="false" afterPath="$PROJECT_DIR$/src/profiles/Cross Org Data Proxy User.profile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/profiles/Custom%3A Marketing Profile.profile" beforeDir="false" afterPath="$PROJECT_DIR$/src/profiles/Custom%3A Marketing Profile.profile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/profiles/Custom%3A Sales Profile.profile" beforeDir="false" afterPath="$PROJECT_DIR$/src/profiles/Custom%3A Sales Profile.profile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/profiles/Custom%3A Support Profile.profile" beforeDir="false" afterPath="$PROJECT_DIR$/src/profiles/Custom%3A Support Profile.profile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/profiles/Customer Community Login User.profile" beforeDir="false" afterPath="$PROJECT_DIR$/src/profiles/Customer Community Login User.profile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/profiles/Customer Community Plus Login User.profile" beforeDir="false" afterPath="$PROJECT_DIR$/src/profiles/Customer Community Plus Login User.profile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/profiles/Customer Community Plus User.profile" beforeDir="false" afterPath="$PROJECT_DIR$/src/profiles/Customer Community Plus User.profile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/profiles/Customer Community User.profile" beforeDir="false" afterPath="$PROJECT_DIR$/src/profiles/Customer Community User.profile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/profiles/Customer Portal Manager Custom.profile" beforeDir="false" afterPath="$PROJECT_DIR$/src/profiles/Customer Portal Manager Custom.profile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/profiles/Customer Portal Manager Standard.profile" beforeDir="false" afterPath="$PROJECT_DIR$/src/profiles/Customer Portal Manager Standard.profile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/profiles/External Identity User.profile" beforeDir="false" afterPath="$PROJECT_DIR$/src/profiles/External Identity User.profile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/profiles/Force%2Ecom - App Subscription User.profile" beforeDir="false" afterPath="$PROJECT_DIR$/src/profiles/Force%2Ecom - App Subscription User.profile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/profiles/Force%2Ecom - Free User.profile" beforeDir="false" afterPath="$PROJECT_DIR$/src/profiles/Force%2Ecom - Free User.profile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/profiles/Gold Partner User.profile" beforeDir="false" afterPath="$PROJECT_DIR$/src/profiles/Gold Partner User.profile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/profiles/High Volume Customer Portal User.profile" beforeDir="false" afterPath="$PROJECT_DIR$/src/profiles/High Volume Customer Portal User.profile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/profiles/HighVolumePortal.profile" beforeDir="false" afterPath="$PROJECT_DIR$/src/profiles/HighVolumePortal.profile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/profiles/Identity User.profile" beforeDir="false" afterPath="$PROJECT_DIR$/src/profiles/Identity User.profile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/profiles/MarketingProfile.profile" beforeDir="false" afterPath="$PROJECT_DIR$/src/profiles/MarketingProfile.profile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/profiles/Partner App Subscription User.profile" beforeDir="false" afterPath="$PROJECT_DIR$/src/profiles/Partner App Subscription User.profile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/profiles/Partner Community Login User.profile" beforeDir="false" afterPath="$PROJECT_DIR$/src/profiles/Partner Community Login User.profile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/profiles/Partner Community User.profile" beforeDir="false" afterPath="$PROJECT_DIR$/src/profiles/Partner Community User.profile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/profiles/PlatformPortal.profile" beforeDir="false" afterPath="$PROJECT_DIR$/src/profiles/PlatformPortal.profile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/profiles/ReadOnly.profile" beforeDir="false" afterPath="$PROJECT_DIR$/src/profiles/ReadOnly.profile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/profiles/Silver Partner User.profile" beforeDir="false" afterPath="$PROJECT_DIR$/src/profiles/Silver Partner User.profile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/profiles/SolutionManager.profile" beforeDir="false" afterPath="$PROJECT_DIR$/src/profiles/SolutionManager.profile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/profiles/Standard.profile" beforeDir="false" afterPath="$PROJECT_DIR$/src/profiles/Standard.profile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/profiles/StandardAul.profile" beforeDir="false" afterPath="$PROJECT_DIR$/src/profiles/StandardAul.profile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/profiles/Work%2Ecom Only User.profile" beforeDir="false" afterPath="$PROJECT_DIR$/src/profiles/Work%2Ecom Only User.profile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/settings/Account.settings" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/settings/Activities.settings" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/settings/Address.settings" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/settings/BusinessHours.settings" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/settings/Case.settings" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/settings/Company.settings" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/settings/Contract.settings" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/settings/Entitlement.settings" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/settings/FieldService.settings" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/settings/FileUploadAndDownloadSecurity.settings" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/settings/Forecasting.settings" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/settings/Ideas.settings" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/settings/Knowledge.settings" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/settings/LiveAgent.settings" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/settings/Macro.settings" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/settings/Mobile.settings" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/settings/Name.settings" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/settings/OmniChannel.settings" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/settings/Opportunity.settings" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/settings/Order.settings" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/settings/OrgPreference.settings" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/settings/PathAssistant.settings" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/settings/Product.settings" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/settings/Quote.settings" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/settings/Search.settings" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/settings/Security.settings" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sharingRules/Account.sharingRules" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sharingRules/Asset.sharingRules" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sharingRules/Campaign.sharingRules" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sharingRules/Case.sharingRules" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sharingRules/Company__c.sharingRules" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sharingRules/Contact.sharingRules" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sharingRules/Contacts__c.sharingRules" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sharingRules/Discount__c.sharingRules" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sharingRules/FlowInterview.sharingRules" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sharingRules/Lead.sharingRules" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sharingRules/ListEmail.sharingRules" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sharingRules/Opportunity.sharingRules" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sharingRules/Order.sharingRules" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sharingRules/Store__c.sharingRules" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sharingRules/User.sharingRules" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/standardValueSets/AccountContactRole.standardValueSet" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/standardValueSets/AccountOwnership.standardValueSet" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/standardValueSets/AccountRating.standardValueSet" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/standardValueSets/AccountType.standardValueSet" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/standardValueSets/AssetStatus.standardValueSet" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/standardValueSets/CampaignMemberStatus.standardValueSet" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/standardValueSets/CampaignStatus.standardValueSet" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/standardValueSets/CampaignType.standardValueSet" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/standardValueSets/CaseContactRole.standardValueSet" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/standardValueSets/CaseOrigin.standardValueSet" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/standardValueSets/CasePriority.standardValueSet" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/standardValueSets/CaseReason.standardValueSet" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/standardValueSets/CaseStatus.standardValueSet" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/standardValueSets/CaseType.standardValueSet" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/standardValueSets/ContactRole.standardValueSet" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/standardValueSets/ContractContactRole.standardValueSet" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/standardValueSets/ContractStatus.standardValueSet" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/standardValueSets/EventSubject.standardValueSet" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/standardValueSets/EventType.standardValueSet" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/standardValueSets/FiscalYearPeriodName.standardValueSet" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/standardValueSets/FiscalYearPeriodPrefix.standardValueSet" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/standardValueSets/FiscalYearQuarterName.standardValueSet" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/standardValueSets/FiscalYearQuarterPrefix.standardValueSet" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/standardValueSets/IdeaMultiCategory.standardValueSet" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/standardValueSets/IdeaStatus.standardValueSet" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/standardValueSets/Industry.standardValueSet" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/standardValueSets/LeadSource.standardValueSet" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/standardValueSets/LeadStatus.standardValueSet" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/standardValueSets/OpportunityCompetitor.standardValueSet" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/standardValueSets/OpportunityStage.standardValueSet" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/standardValueSets/OpportunityType.standardValueSet" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/standardValueSets/OrderType.standardValueSet" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/standardValueSets/PartnerRole.standardValueSet" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/standardValueSets/Product2Family.standardValueSet" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/standardValueSets/QuickTextCategory.standardValueSet" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/standardValueSets/QuickTextChannel.standardValueSet" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/standardValueSets/Salutation.standardValueSet" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/standardValueSets/SolutionStatus.standardValueSet" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/standardValueSets/TaskPriority.standardValueSet" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/standardValueSets/TaskStatus.standardValueSet" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/standardValueSets/TaskSubject.standardValueSet" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/standardValueSets/TaskType.standardValueSet" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/tabs/Company__c.tab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/tabs/Contacts__c.tab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/tabs/Discount__c.tab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/tabs/Product__c.tab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/tabs/Store__c.tab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/tabs/raw_material__c.tab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/tabs/standard-home.tab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/triggers/ProductTrigger.trigger" beforeDir="false" afterPath="$PROJECT_DIR$/src/triggers/ProductTrigger.trigger" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/triggers/RawMaterialTrigger.trigger" beforeDir="false" afterPath="$PROJECT_DIR$/src/triggers/RawMaterialTrigger.trigger" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="ProductList.page" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/pages/ProductList.page">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file leaf-file-name=".name" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.idea/.name">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="10" selection-start-column="10" selection-end-column="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IlluminatedCloudWorkspaceSettings">
+    <option name="moduleWorkspaceSettings">
+      <map>
+        <entry key="t.shkoda@task.com">
+          <value>
+            <ModuleWorkspaceSettings>
+              <option name="moduleContentsLastModified" value="1537868052410" />
+            </ModuleWorkspaceSettings>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="4">
+    <option name="x" value="67" />
+    <option name="y" value="25" />
+    <option name="width" value="927" />
+    <option name="height" value="1055" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="t.shkoda@task.com" type="b2602c69:ProjectViewProjectNode" />
+              <item name="InternetShop" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="t.shkoda@task.com" type="b2602c69:ProjectViewProjectNode" />
+              <item name="InternetShop" type="462c0819:PsiDirectoryNode" />
+              <item name=".idea" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="AndroidView" />
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$USER_HOME$/InternetShop" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <properties />
+      <listeners />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fd4f7a1b-11dc-4642-990c-9d66fe1b9430" name="Default" comment="" />
+      <created>1537868001731</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1537868001731</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="67" y="25" width="927" height="1055" extended-state="4" />
+    <editor active="true" />
+    <layout>
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="3" />
+      <window_info id="Image Layers" order="2" />
+      <window_info anchor="right" id="Capture Analysis" order="3" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Anonymous Apex" order="7" />
+      <window_info anchor="right" id="Maven Projects" order="3" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info id="Capture Tool" order="2" />
+      <window_info id="Designer" order="2" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.5175936" />
+      <window_info anchor="bottom" id="SOQL Query" order="7" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Log Viewer" order="7" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info id="UI Designer" order="2" />
+      <window_info anchor="right" id="Theme Preview" order="3" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Messages" order="7" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/pages/ProductList.page">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/.name">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="10" selection-start-column="10" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>IlluminatedCloud (Bruntwood/Bruntwood)</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
