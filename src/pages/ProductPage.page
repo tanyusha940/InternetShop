@@ -1,0 +1,10 @@
+<apex:page id="ProductPage" standardController="Product__c">
+    <apex:pageBlock  title="{!Product__c.Name}">
+        <div style="text-align: center; font-size: 25px;">
+            <apex:image height="200" width="150" value="{!Product__c.URL_Image__c}"/><br/>
+            Title: <apex:outputText  value="{!Product__c.Title__c}"/><br/>
+            Price: <apex:outputText value="{!Product__c.Cost__c}"/><br/>
+            Description: <apex:outputText escape = "false" value="{!Product__c.Description__c}"/>
+        </div>
+    </apex:pageBlock>
+</apex:page>

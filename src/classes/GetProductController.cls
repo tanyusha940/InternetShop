@@ -1,13 +1,19 @@
 public with sharing class GetProductController {
 
-    public List<Product__c> getProduct(){
-        List<Product__c> prod = [SELECT Name,Image__c,
-                                        Title__c, Description__c, Cost__c
-                                FROM  Product__c LIMIT 10];
-        return prod;
+    public List<Product__c> Products {get; set;}
+
+    //public String DescriptionProduct {get; set;}
+
+    public GetProductController(){
+        Products = [SELECT Name,Image__c,
+                            Title__c, Description__c, Cost__c, URL_Image__c
+                    FROM  Product__c
+                    LIMIT 10];
     }
-    public Void Save(){
-        System.Debug('Hello');
+
+    public PageReference Redirect(){
+        PageReference pageReference = new PageReference('/apex/BuyProduct?id=' + ApexPages.currentPage().getParameters().get('IdProduct'));
+        return pageReference;
     }
 
 
