@@ -80,13 +80,12 @@
         <visibleLines>25</visibleLines>
     </fields>
     <fields>
-        <fullName>Name__c</fullName>
+        <fullName>Email__c</fullName>
         <externalId>false</externalId>
-        <label>Name</label>
-        <length>255</length>
-        <required>false</required>
+        <label>Email</label>
+        <required>true</required>
         <trackTrending>false</trackTrending>
-        <type>Text</type>
+        <type>Email</type>
         <unique>false</unique>
     </fields>
     <fields>
