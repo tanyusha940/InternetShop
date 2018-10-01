@@ -1,0 +1,10 @@
+<apex:page standardstylesheets="false" showheader="false">
+    <html>
+        <style>
+            H1 { text-align: center }
+        </style>
+        <body>
+            <h1>Congratulations!</h1>
+        </body>
+    </html>
+</apex:page>

@@ -16,7 +16,7 @@
             <apex:column >
                 <apex:facet name="header">Description</apex:facet>
                 <apex:form >
-                    <apex:outputText escape = "false" value="{!IF(len(Product.Description__c) <= 100, Product.Description__c, LEFT(Product.Description__c, 100) + '...')}"/>
+                    <apex:outputText escape="false" value="{!IF(len(Product.Description__c) <= 100, Product.Description__c, LEFT(Product.Description__c, 100) + '...')}"/>
                     <apex:commandLink value="details" rerender="dummy" onclick="window.open('/apex/ProductPage?id={!Product.Id}')" style="{!IF(len(Product.Description__c) <= 100, 'display:none', 'display:block')}">
                     </apex:commandLink>
                 </apex:form>
@@ -39,21 +39,21 @@
 <!--<apex:page Controller="GetProductController">-->
     <!--<apex:pageBlock title="Product list">-->
         <!--<apex:pageBlockTable value="{!Products}" var="Product">-->
-            <!--<apex:column>-->
+            <!--<apex:column >-->
                 <!--<apex:facet name="header">Image</apex:facet>-->
                 <!--<apex:image height="150" width="250" value="{!Product.URL_Image__c}" />-->
             <!--</apex:column>-->
-            <!--<apex:column>-->
+            <!--<apex:column >-->
                 <!--<apex:facet name="header">Name</apex:facet>-->
                 <!--<apex:outputText value="{!Product.Name}"/>-->
             <!--</apex:column>-->
-            <!--<apex:column>-->
+            <!--<apex:column >-->
                 <!--<apex:facet name="header">Title</apex:facet>-->
                 <!--<apex:outputText value="{!Product.Title__c}"/>-->
             <!--</apex:column>-->
             <!--<apex:column id="descr">-->
                 <!--<apex:facet name="header">Description</apex:facet>-->
-                <!--<apex:outputText escape = "false" value="{!IF(len(Product.Description__c) <= 100, Product.Description__c, LEFT(Product.Description__c, 100) + '...')}"/>-->
+                <!--<apex:outputText escape="false" value="{!IF(len(Product.Description__c) <= 100, Product.Description__c, LEFT(Product.Description__c, 100) + '...')}"/>-->
                 <!--<apex:commandLink value="More details" onclick="window.open('/apex/ProductPage?id={!Product.Id}')" style="{!IF(len(Product.Description__c) <= 100, 'display:none', 'display:block')}"/>-->
             <!--</apex:column>-->
             <!--<apex:column >-->

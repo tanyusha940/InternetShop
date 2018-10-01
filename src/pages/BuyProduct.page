@@ -1,24 +1,24 @@
 <apex:page controller="BuyProductController" showHeader="false" sidebar="false">
     <apex:pageBlock title="Buy Product">
-        <apex:pageBlockTable value="{!ProductList}" var="Product">
+        <apex:pageBlockTable value="{!CurrentProduct}" var="Product">
             <apex:column width="300">
                 <apex:form >
                     <apex:pageBlockSection columns="1">
-                        <apex:inputField value="{!objContact.Email__c}" />
-                        <apex:inputField value="{!objContact.Name}" required="true"/>
-                        <apex:inputField value="{!objContact.Phone__c}" />
+                        <apex:inputField value="{!CurrentContact.Email__c}" />
+                        <apex:inputField value="{!CurrentContact.Name}" required="true"/>
+                        <apex:inputField value="{!CurrentContact.Phone__c}" />
                         <apex:commandButton action="{!BuyProduct}" value="Buy" />
                     </apex:pageBlockSection>
                 </apex:form>
             </apex:column>
-            <apex:column  width="200">
+            <apex:column width="200">
                 <apex:image height="150" width="200" value="{!Product.URL_Image__c}" />
             </apex:column>
             <apex:column >
                 <apex:pageBlockSection columns="1">
                     <apex:outputField value="{!Product.Name}"/>
                     <apex:outputText value="{!Product.Title__c}"/>
-                    <apex:outputText escape = "false" value="{!Product.Description__c}"/>
+                    <apex:outputText escape="false" value="{!Product.Description__c}"/>
                     <apex:outputText value="{!Product.Cost__c}"/>
                 </apex:pageBlockSection>
             </apex:column>

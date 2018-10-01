@@ -587,6 +587,10 @@
                             <option name="name" value="BuyProductController" />
                             <option name="selected" value="true" />
                           </MetadataEntry>
+                          <MetadataEntry>
+                            <option name="name" value="Constants" />
+                            <option name="selected" value="true" />
+                          </MetadataEntry>
                         </list>
                       </option>
                       <option name="name" value="ApexClass" />
@@ -2527,6 +2531,10 @@
                           </MetadataEntry>
                           <MetadataEntry>
                             <option name="name" value="ProductPage" />
+                            <option name="selected" value="true" />
+                          </MetadataEntry>
+                          <MetadataEntry>
+                            <option name="name" value="OkBuyProduct" />
                             <option name="selected" value="true" />
                           </MetadataEntry>
                         </list>

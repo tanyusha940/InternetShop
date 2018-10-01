@@ -10,11 +10,4 @@ public with sharing class GetProductController {
                     FROM  Product__c
                     LIMIT 10];
     }
-
-    public PageReference Redirect(){
-        PageReference pageReference = new PageReference('/apex/BuyProduct?id=' + ApexPages.currentPage().getParameters().get('IdProduct'));
-        return pageReference;
-    }
-
-
 }

@@ -2,7 +2,59 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fd4f7a1b-11dc-4642-990c-9d66fe1b9430" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/src/classes/Constants.cls" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/classes/Constants.cls-meta.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/OkBuyProduct.page" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/OkBuyProduct.page-meta.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/IlluminatedCloud/t_shkoda_task_com/OfflineSymbolTable.zip" beforeDir="false" afterPath="$PROJECT_DIR$/IlluminatedCloud/t_shkoda_task_com/OfflineSymbolTable.zip" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/classes/BuyProductController.cls" beforeDir="false" afterPath="$PROJECT_DIR$/src/classes/BuyProductController.cls" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/classes/GetProductController.cls" beforeDir="false" afterPath="$PROJECT_DIR$/src/classes/GetProductController.cls" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/layouts/Contacts__c-Contacts Layout.layout" beforeDir="false" afterPath="$PROJECT_DIR$/src/layouts/Contacts__c-Contacts Layout.layout" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/objects/Contacts__c.object" beforeDir="false" afterPath="$PROJECT_DIR$/src/objects/Contacts__c.object" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/pages/BuyProduct.page" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/BuyProduct.page" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/BuyProduct.page-meta.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/BuyProduct.page-meta.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/ProductList.page" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/ProductList.page" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/ProductPage.page" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/ProductPage.page" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/ProductPage.page-meta.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/ProductPage.page-meta.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/profiles/Admin.profile" beforeDir="false" afterPath="$PROJECT_DIR$/src/profiles/Admin.profile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/profiles/Analytics Cloud Integration User.profile" beforeDir="false" afterPath="$PROJECT_DIR$/src/profiles/Analytics Cloud Integration User.profile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/profiles/Analytics Cloud Security User.profile" beforeDir="false" afterPath="$PROJECT_DIR$/src/profiles/Analytics Cloud Security User.profile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/profiles/Authenticated Website.profile" beforeDir="false" afterPath="$PROJECT_DIR$/src/profiles/Authenticated Website.profile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/profiles/CPQ Integration User.profile" beforeDir="false" afterPath="$PROJECT_DIR$/src/profiles/CPQ Integration User.profile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/profiles/Chatter External User.profile" beforeDir="false" afterPath="$PROJECT_DIR$/src/profiles/Chatter External User.profile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/profiles/Chatter Free User.profile" beforeDir="false" afterPath="$PROJECT_DIR$/src/profiles/Chatter Free User.profile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/profiles/Chatter Moderator User.profile" beforeDir="false" afterPath="$PROJECT_DIR$/src/profiles/Chatter Moderator User.profile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/profiles/ContractManager.profile" beforeDir="false" afterPath="$PROJECT_DIR$/src/profiles/ContractManager.profile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/profiles/Cross Org Data Proxy User.profile" beforeDir="false" afterPath="$PROJECT_DIR$/src/profiles/Cross Org Data Proxy User.profile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/profiles/Custom%3A Marketing Profile.profile" beforeDir="false" afterPath="$PROJECT_DIR$/src/profiles/Custom%3A Marketing Profile.profile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/profiles/Custom%3A Sales Profile.profile" beforeDir="false" afterPath="$PROJECT_DIR$/src/profiles/Custom%3A Sales Profile.profile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/profiles/Custom%3A Support Profile.profile" beforeDir="false" afterPath="$PROJECT_DIR$/src/profiles/Custom%3A Support Profile.profile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/profiles/Customer Community Login User.profile" beforeDir="false" afterPath="$PROJECT_DIR$/src/profiles/Customer Community Login User.profile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/profiles/Customer Community Plus Login User.profile" beforeDir="false" afterPath="$PROJECT_DIR$/src/profiles/Customer Community Plus Login User.profile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/profiles/Customer Community Plus User.profile" beforeDir="false" afterPath="$PROJECT_DIR$/src/profiles/Customer Community Plus User.profile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/profiles/Customer Community User.profile" beforeDir="false" afterPath="$PROJECT_DIR$/src/profiles/Customer Community User.profile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/profiles/Customer Portal Manager Custom.profile" beforeDir="false" afterPath="$PROJECT_DIR$/src/profiles/Customer Portal Manager Custom.profile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/profiles/Customer Portal Manager Standard.profile" beforeDir="false" afterPath="$PROJECT_DIR$/src/profiles/Customer Portal Manager Standard.profile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/profiles/External Identity User.profile" beforeDir="false" afterPath="$PROJECT_DIR$/src/profiles/External Identity User.profile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/profiles/Force%2Ecom - App Subscription User.profile" beforeDir="false" afterPath="$PROJECT_DIR$/src/profiles/Force%2Ecom - App Subscription User.profile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/profiles/Force%2Ecom - Free User.profile" beforeDir="false" afterPath="$PROJECT_DIR$/src/profiles/Force%2Ecom - Free User.profile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/profiles/Gold Partner User.profile" beforeDir="false" afterPath="$PROJECT_DIR$/src/profiles/Gold Partner User.profile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/profiles/High Volume Customer Portal User.profile" beforeDir="false" afterPath="$PROJECT_DIR$/src/profiles/High Volume Customer Portal User.profile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/profiles/HighVolumePortal.profile" beforeDir="false" afterPath="$PROJECT_DIR$/src/profiles/HighVolumePortal.profile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/profiles/Identity User.profile" beforeDir="false" afterPath="$PROJECT_DIR$/src/profiles/Identity User.profile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/profiles/MarketingProfile.profile" beforeDir="false" afterPath="$PROJECT_DIR$/src/profiles/MarketingProfile.profile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/profiles/Partner App Subscription User.profile" beforeDir="false" afterPath="$PROJECT_DIR$/src/profiles/Partner App Subscription User.profile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/profiles/Partner Community Login User.profile" beforeDir="false" afterPath="$PROJECT_DIR$/src/profiles/Partner Community Login User.profile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/profiles/Partner Community User.profile" beforeDir="false" afterPath="$PROJECT_DIR$/src/profiles/Partner Community User.profile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/profiles/PlatformPortal.profile" beforeDir="false" afterPath="$PROJECT_DIR$/src/profiles/PlatformPortal.profile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/profiles/ReadOnly.profile" beforeDir="false" afterPath="$PROJECT_DIR$/src/profiles/ReadOnly.profile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/profiles/Silver Partner User.profile" beforeDir="false" afterPath="$PROJECT_DIR$/src/profiles/Silver Partner User.profile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/profiles/SolutionManager.profile" beforeDir="false" afterPath="$PROJECT_DIR$/src/profiles/SolutionManager.profile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/profiles/Standard.profile" beforeDir="false" afterPath="$PROJECT_DIR$/src/profiles/Standard.profile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/profiles/StandardAul.profile" beforeDir="false" afterPath="$PROJECT_DIR$/src/profiles/StandardAul.profile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/profiles/Work%2Ecom Only User.profile" beforeDir="false" afterPath="$PROJECT_DIR$/src/profiles/Work%2Ecom Only User.profile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/t.shkoda@task.com.iml" beforeDir="false" afterPath="$PROJECT_DIR$/t.shkoda@task.com.iml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -13,24 +65,12 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="ProductList.page" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/pages/ProductList.page">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="5" column="16" selection-start-line="5" selection-start-column="16" selection-end-line="5" selection-end-column="87" />
-              <folding>
-                <element signature="n#style#0;n#apex:commandLink#0;n#apex:form#0;n#apex:column#3;n#apex:pageBlockTable#0;n#apex:pageBlock#0;n#apex:page#0;n#!!top" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="BuyProduct.page" pinned="false" current-in-tab="true">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="BuyProduct.page" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/pages/BuyProduct.page">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="7" column="82" selection-start-line="7" selection-start-column="82" selection-end-line="7" selection-end-column="82" />
+            <state relative-caret-position="15">
+              <caret line="1" column="4" lean-forward="true" selection-start-line="1" selection-start-column="4" selection-end-line="1" selection-end-column="40" />
             </state>
           </provider>
         </entry>
@@ -38,8 +78,26 @@
       <file leaf-file-name="BuyProductController.cls" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/classes/BuyProductController.cls">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="12" selection-start-line="12" selection-end-line="12" />
+            <state relative-caret-position="462">
+              <caret line="46" column="29" selection-start-line="46" selection-start-column="29" selection-end-line="46" selection-end-column="29" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="OkBuyProduct.page" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/pages/OkBuyProduct.page">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="90">
+              <caret line="6" column="21" selection-start-line="6" selection-start-column="21" selection-end-line="6" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Constants.cls" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/classes/Constants.cls">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="90">
+              <caret line="6" column="37" lean-forward="true" selection-start-line="6" selection-start-column="31" selection-end-line="6" selection-end-column="37" />
             </state>
           </provider>
         </entry>
@@ -48,7 +106,25 @@
         <entry file="file://$PROJECT_DIR$/src/pages/ProductPage.page">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="60">
-              <caret line="4" column="56" selection-start-line="4" selection-start-column="46" selection-end-line="4" selection-end-column="56" />
+              <caret line="4" column="56" selection-start-line="4" selection-start-column="56" selection-end-line="4" selection-end-column="56" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="GetProductController.cls" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/classes/GetProductController.cls">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="165">
+              <caret line="11" column="5" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ProductList.page" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/pages/ProductList.page">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="105">
+              <caret line="7" column="26" lean-forward="true" selection-start-line="7" selection-start-column="26" selection-end-line="7" selection-end-column="26" />
             </state>
           </provider>
         </entry>
@@ -58,8 +134,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Visualforce Page" />
         <option value="Apex Class" />
+        <option value="Visualforce Page" />
         <option value="Apex Metadata" />
       </list>
     </option>
@@ -76,10 +152,12 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/src/pages/ProductPage.page" />
-        <option value="$PROJECT_DIR$/src/classes/GetProductController.cls" />
         <option value="$PROJECT_DIR$/src/pages/ProductList.page" />
-        <option value="$PROJECT_DIR$/src/classes/BuyProductController.cls" />
         <option value="$PROJECT_DIR$/src/pages/BuyProduct.page" />
+        <option value="$PROJECT_DIR$/src/classes/Constants.cls" />
+        <option value="$PROJECT_DIR$/src/classes/GetProductController.cls" />
+        <option value="$PROJECT_DIR$/src/classes/BuyProductController.cls" />
+        <option value="$PROJECT_DIR$/src/pages/OkBuyProduct.page" />
       </list>
     </option>
   </component>
@@ -89,7 +167,7 @@
         <entry key="t.shkoda@task.com">
           <value>
             <ModuleWorkspaceSettings>
-              <option name="moduleContentsLastModified" value="1537979766833" />
+              <option name="moduleContentsLastModified" value="1538395835148" />
             </ModuleWorkspaceSettings>
           </value>
         </entry>
@@ -110,9 +188,11 @@
                 <ConnectionWorkspaceSettings>
                   <option name="buildSuccessDatesBySourceRootRelativePath">
                     <map>
-                      <entry key="CLASSES/BUYPRODUCTCONTROLLER.CLS" value="1538057801934" />
-                      <entry key="CLASSES/GETPRODUCTCONTROLLER.CLS" value="1538050493664" />
-                      <entry key="PAGES/BUYPRODUCT.PAGE" value="1538058127403" />
+                      <entry key="CLASSES/BUYPRODUCTCONTROLLER.CLS" value="1538396664357" />
+                      <entry key="CLASSES/CONSTANTS.CLS" value="1538395195230" />
+                      <entry key="CLASSES/GETPRODUCTCONTROLLER.CLS" value="1538396314939" />
+                      <entry key="PAGES/BUYPRODUCT.PAGE" value="1538394083357" />
+                      <entry key="PAGES/OKBUYPRODUCT.PAGE" value="1538397259665" />
                       <entry key="PAGES/PRODUCTLIST.PAGE" value="1538050534456" />
                       <entry key="PAGES/PRODUCTPAGE.PAGE" value="1537979243453" />
                     </map>
@@ -142,649 +222,39 @@
             <entry key="t.shkoda@task.com">
               <value>
                 <MetadataContents>
-                  <option name="lastPopulated" value="1537868052410" />
+                  <option name="lastPopulated" value="1537979766833" />
                   <option name="metadataTypes">
                     <set>
                       <MetadataType>
                         <option name="members">
                           <set>
-                            <option value="Test" />
-                            <option value="ProductTrigger" />
-                            <option value="RawMaterialTrigger" />
-                            <option value="changeValueAfter" />
+                            <option value="Task.EditDescription" />
+                            <option value="NewGroup" />
+                            <option value="FeedItem.NewTaskFromFeedItem" />
+                            <option value="NewNote" />
+                            <option value="CollaborationGroup.NewGroupMember" />
+                            <option value="Task.EditDescription_0" />
+                            <option value="CollaborationGroup.NewGroupRecord" />
+                            <option value="SendEmail" />
+                            <option value="NewLead" />
+                            <option value="Task.UpdateStatus" />
+                            <option value="NewOpportunity" />
+                            <option value="NewTask" />
+                            <option value="Task.Defer_0" />
+                            <option value="Task.UpdateStatus_0" />
+                            <option value="NewAccount" />
+                            <option value="Task.UpdatePriority" />
+                            <option value="Case.LogACall" />
+                            <option value="Case.NewChildCase" />
+                            <option value="Task.UpdatePriority_0" />
+                            <option value="NewContact" />
+                            <option value="NewCase" />
+                            <option value="Task.Defer" />
+                            <option value="NewEvent" />
+                            <option value="LogACall" />
                           </set>
                         </option>
-                        <option name="name" value="ApexTrigger" />
-                      </MetadataType>
-                      <MetadataType>
-                        <option name="members">
-                          <set>
-                            <option value="Account" />
-                            <option value="Company" />
-                            <option value="Address" />
-                            <option value="Macro" />
-                            <option value="Product" />
-                            <option value="Security" />
-                            <option value="Knowledge" />
-                            <option value="Ideas" />
-                            <option value="Case" />
-                            <option value="Name" />
-                            <option value="FieldService" />
-                            <option value="SocialCustomerService" />
-                            <option value="OmniChannel" />
-                            <option value="Search" />
-                            <option value="Opportunity" />
-                            <option value="FileUploadAndDownloadSecurity" />
-                            <option value="Activities" />
-                            <option value="Order" />
-                            <option value="OrgPreference" />
-                            <option value="BusinessHours" />
-                            <option value="Mobile" />
-                            <option value="Forecasting" />
-                            <option value="Quote" />
-                            <option value="LiveAgent" />
-                            <option value="Entitlement" />
-                            <option value="PathAssistant" />
-                            <option value="Contract" />
-                          </set>
-                        </option>
-                        <option name="name" value="Settings" />
-                      </MetadataType>
-                      <MetadataType>
-                        <option name="members">
-                          <set>
-                            <option value="DataCloudGeoLocation" />
-                          </set>
-                        </option>
-                        <option name="name" value="CleanDataService" />
-                      </MetadataType>
-                      <MetadataType>
-                        <option name="members">
-                          <set>
-                            <option value="Case" />
-                          </set>
-                        </option>
-                        <option name="name" value="EscalationRules" />
-                      </MetadataType>
-                      <MetadataType>
-                        <option name="members">
-                          <set>
-                            <option value="Custom%3A Support Profile" />
-                            <option value="Customer Community Plus Login User" />
-                            <option value="Analytics Cloud Integration User" />
-                            <option value="High Volume Customer Portal User" />
-                            <option value="Force%2Ecom - Free User" />
-                            <option value="Cross Org Data Proxy User" />
-                            <option value="PlatformPortal" />
-                            <option value="External Identity User" />
-                            <option value="Force%2Ecom - App Subscription User" />
-                            <option value="Standard" />
-                            <option value="Chatter External User" />
-                            <option value="Identity User" />
-                            <option value="Custom%3A Sales Profile" />
-                            <option value="Partner Community Login User" />
-                            <option value="ContractManager" />
-                            <option value="Customer Community Plus User" />
-                            <option value="Partner Community User" />
-                            <option value="StandardAul" />
-                            <option value="Gold Partner User" />
-                            <option value="Chatter Moderator User" />
-                            <option value="SolutionManager" />
-                            <option value="ReadOnly" />
-                            <option value="Chatter Free User" />
-                            <option value="HighVolumePortal" />
-                            <option value="Customer Portal Manager Standard" />
-                            <option value="Customer Community Login User" />
-                            <option value="MarketingProfile" />
-                            <option value="Analytics Cloud Security User" />
-                            <option value="Admin" />
-                            <option value="Partner App Subscription User" />
-                            <option value="Silver Partner User" />
-                            <option value="Work%2Ecom Only User" />
-                            <option value="Authenticated Website" />
-                            <option value="Customer Community User" />
-                            <option value="Custom%3A Marketing Profile" />
-                            <option value="Customer Portal Manager Custom" />
-                            <option value="CPQ Integration User" />
-                          </set>
-                        </option>
-                        <option name="name" value="Profile" />
-                      </MetadataType>
-                      <MetadataType>
-                        <option name="members">
-                          <set>
-                            <option value="ApexDevNet" />
-                          </set>
-                        </option>
-                        <option name="name" value="RemoteSiteSetting" />
-                      </MetadataType>
-                      <MetadataType>
-                        <option name="members">
-                          <set>
-                            <option value="Lead.Standard_Lead_Duplicate_Rule" />
-                            <option value="Account.Standard_Account_Duplicate_Rule" />
-                            <option value="Contact.Standard_Contact_Duplicate_Rule" />
-                          </set>
-                        </option>
-                        <option name="name" value="DuplicateRule" />
-                      </MetadataType>
-                      <MetadataType>
-                        <option name="members">
-                          <set>
-                            <option value="Case.Standard" />
-                          </set>
-                        </option>
-                        <option name="name" value="EscalationRule" />
-                      </MetadataType>
-                      <MetadataType>
-                        <option name="members">
-                          <set>
-                            <option value="CustomLabels" />
-                          </set>
-                        </option>
-                        <option name="name" value="CustomLabels" />
-                      </MetadataType>
-                      <MetadataType>
-                        <option name="members">
-                          <set>
-                            <option value="Store__c-en_US" />
-                            <option value="raw_material__c-en_US" />
-                            <option value="Discount__c-en_US" />
-                            <option value="Company__c-en_US" />
-                            <option value="Contacts__c-en_US" />
-                            <option value="Product__c-en_US" />
-                          </set>
-                        </option>
-                        <option name="name" value="CustomObjectTranslation" />
-                      </MetadataType>
-                      <MetadataType>
-                        <option name="members">
-                          <set>
-                            <option value="ProductList" />
-                          </set>
-                        </option>
-                        <option name="name" value="ApexPage" />
-                      </MetadataType>
-                      <MetadataType>
-                        <option name="members">
-                          <set>
-                            <option value="Campaign.ViewCampaignInfluenceReport" />
-                            <option value="Opportunity.DeliveryStatus" />
-                            <option value="Case.UpsellCrosssellOpportunity" />
-                            <option value="Account.Billing" />
-                          </set>
-                        </option>
-                        <option name="name" value="WebLink" />
-                      </MetadataType>
-                      <MetadataType>
-                        <option name="members">
-                          <set>
-                            <option value="Metric.Progress" />
-                            <option value="raw_material__c.Used" />
-                            <option value="raw_material__c.Provided" />
-                            <option value="Contacts__c.Provider" />
-                            <option value="Metric.Completion" />
-                            <option value="Contacts__c.Client" />
-                            <option value="Product__c.Sold" />
-                            <option value="Product__c.Made" />
-                          </set>
-                        </option>
-                        <option name="name" value="RecordType" />
-                      </MetadataType>
-                      <MetadataType>
-                        <option name="members">
-                          <set>
-                            <option value="Order" />
-                            <option value="Account" />
-                            <option value="User" />
-                            <option value="Company__c" />
-                            <option value="Case" />
-                            <option value="Contact" />
-                            <option value="FlowInterview" />
-                            <option value="Discount__c" />
-                            <option value="Campaign" />
-                            <option value="ListEmail" />
-                            <option value="Store__c" />
-                            <option value="Contacts__c" />
-                            <option value="Opportunity" />
-                            <option value="Lead" />
-                            <option value="Asset" />
-                          </set>
-                        </option>
-                        <option name="name" value="SharingRules" />
-                      </MetadataType>
-                      <MetadataType>
-                        <option name="members">
-                          <set>
-                            <option value="DE Default" />
-                          </set>
-                        </option>
-                        <option name="name" value="HomePageLayout" />
-                      </MetadataType>
-                      <MetadataType>
-                        <option name="members">
-                          <set>
-                            <option value="Internal Zone" />
-                          </set>
-                        </option>
-                        <option name="name" value="Community" />
-                      </MetadataType>
-                      <MetadataType>
-                        <option name="members">
-                          <set>
-                            <option value="DirectorDirectSales" />
-                            <option value="SVPSalesMarketing" />
-                            <option value="MarketingTeam" />
-                            <option value="COO" />
-                            <option value="DirectorChannelSales" />
-                            <option value="InstallationRepairServices" />
-                            <option value="SVPHumanResources" />
-                            <option value="SVPCustomerServiceSupport" />
-                            <option value="VPInternationalSales" />
-                            <option value="ChannelSalesTeam" />
-                            <option value="EasternSalesTeam" />
-                            <option value="CEO" />
-                            <option value="CustomerSupportInternational" />
-                            <option value="CFO" />
-                            <option value="CustomerSupportNorthAmerica" />
-                            <option value="WesternSalesTeam" />
-                            <option value="VPMarketing" />
-                            <option value="VPNorthAmericanSales" />
-                          </set>
-                        </option>
-                        <option name="name" value="Role" />
-                      </MetadataType>
-                      <MetadataType>
-                        <option name="members">
-                          <set>
-                            <option value="Account-Account %28Sales%29 Layout" />
-                            <option value="Contact-Contact %28Support%29 Layout" />
-                            <option value="Product2-Product Layout" />
-                            <option value="Lead-Lead Layout" />
-                            <option value="Contact-Contact Layout" />
-                            <option value="Case-Case %28Sales%29 Layout" />
-                            <option value="Lead-Lead %28Support%29 Layout" />
-                            <option value="DandBCompany-D%26B Company Layout" />
-                            <option value="Case-Case %28Support%29 Layout" />
-                            <option value="AssetRelationship-Asset Relationship Layout" />
-                            <option value="Macro-Macro Layout" />
-                            <option value="Order-Order Layout" />
-                            <option value="UserProvisioningRequest-User Provisioning Request Layout" />
-                            <option value="ScorecardMetric-Scorecard Metric Layout" />
-                            <option value="Solution-Solution Layout" />
-                            <option value="Pricebook2-Price Book Layout" />
-                            <option value="Event-Event Layout" />
-                            <option value="UserProvisioningLog-User Provisioning Log Layout" />
-                            <option value="UserProvAccount-User Provisioning Account Layout" />
-                            <option value="Contact-Contact %28Marketing%29 Layout" />
-                            <option value="Task-Task Layout" />
-                            <option value="Product__c-Product Layout" />
-                            <option value="Asset-Asset Layout" />
-                            <option value="Opportunity-Opportunity Layout" />
-                            <option value="OrderItem-Order Product Layout" />
-                            <option value="DuplicateRecordSet-Duplicate Record Set Layout" />
-                            <option value="OpportunityLineItem-Opportunity Product Layout" />
-                            <option value="Case-Case Layout" />
-                            <option value="Contract-Contract Layout" />
-                            <option value="Account-Account Layout" />
-                            <option value="Campaign-Campaign Layout" />
-                            <option value="Contacts__c-Contacts Layout" />
-                            <option value="ScorecardAssociation-Scorecard Association Layout" />
-                            <option value="Opportunity-Opportunity %28Sales%29 Layout" />
-                            <option value="SocialPersona-Social Persona Layout" />
-                            <option value="Scorecard-Scorecard Layout" />
-                            <option value="Discount__c-Discount Layout" />
-                            <option value="Case-Case %28Marketing%29 Layout" />
-                            <option value="Company__c-Company Layout" />
-                            <option value="PricebookEntry-Price Book Entry Layout" />
-                            <option value="CaseClose-Close Case Layout" />
-                            <option value="Idea-Idea Layout" />
-                            <option value="ContentVersion-Content Version Layout" />
-                            <option value="Store__c-Store Layout" />
-                            <option value="Opportunity-Opportunity %28Support%29 Layout" />
-                            <option value="Global-Global Layout" />
-                            <option value="Lead-Lead %28Sales%29 Layout" />
-                            <option value="Account-Account %28Marketing%29 Layout" />
-                            <option value="EmailMessage-Email Message Layout" />
-                            <option value="SocialPost-Social Post Layout" />
-                            <option value="Account-Account %28Support%29 Layout" />
-                            <option value="CampaignMember-Campaign Member Page Layout" />
-                            <option value="QuickText-Quick Text Layout" />
-                            <option value="Contact-Contact %28Sales%29 Layout" />
-                            <option value="User-User Layout" />
-                            <option value="Lead-Lead %28Marketing%29 Layout" />
-                            <option value="raw_material__c-raw material Layout" />
-                            <option value="Opportunity-Opportunity %28Marketing%29 Layout" />
-                          </set>
-                        </option>
-                        <option name="name" value="Layout" />
-                      </MetadataType>
-                      <MetadataType>
-                        <option name="members">
-                          <set>
-                            <option value="Product__c.Sale_status__c" />
-                            <option value="raw_material__c.Name__c" />
-                            <option value="Product__c.Title__c" />
-                            <option value="Contacts__c.Address__c" />
-                            <option value="Case.SLAViolation__c" />
-                            <option value="Product__c.Store__c" />
-                            <option value="Lead.Primary__c" />
-                            <option value="Lead.CurrentGenerators__c" />
-                            <option value="Account.NumberofLocations__c" />
-                            <option value="raw_material__c.Title__c" />
-                            <option value="raw_material__c.Number__c" />
-                            <option value="Opportunity.MainCompetitors__c" />
-                            <option value="Account.SLASerialNumber__c" />
-                            <option value="Account.UpsellOpportunity__c" />
-                            <option value="Account.CustomerPriority__c" />
-                            <option value="raw_material__c.Amount__c" />
-                            <option value="Discount__c.Discount_Code__c" />
-                            <option value="Contacts__c.Phone__c" />
-                            <option value="raw_material__c.Made_in__c" />
-                            <option value="Product__c.Image__c" />
-                            <option value="Product__c.Date_of_purchase__c" />
-                            <option value="Store__c.End_Period__c" />
-                            <option value="Discount__c.Static_discount__c" />
-                            <option value="Product__c.Cost__c" />
-                            <option value="Opportunity.OrderNumber__c" />
-                            <option value="Store__c.Spent_of_provided_materials__c" />
-                            <option value="Metric.OrigMetricId__c" />
-                            <option value="Case.EngineeringReqNumber__c" />
-                            <option value="raw_material__c.Contact__c" />
-                            <option value="Product__c.Description__c" />
-                            <option value="Account.SLAExpirationDate__c" />
-                            <option value="Product__c.Amount__c" />
-                            <option value="Store__c.Amount_of_goods__c" />
-                            <option value="Company__c.Name__c" />
-                            <option value="Contacts__c.Description__c" />
-                            <option value="Case.PotentialLiability__c" />
-                            <option value="Company__c.Phone__c" />
-                            <option value="Product__c.Number_of_purchase__c" />
-                            <option value="Product__c.Name__c" />
-                            <option value="Opportunity.TrackingNumber__c" />
-                            <option value="Product__c.Contacts__c" />
-                            <option value="Account.Active__c" />
-                            <option value="Store__c.Amount_of_sold_goods__c" />
-                            <option value="CaseComment.ParentOrigin" />
-                            <option value="Opportunity.DeliveryInstallationStatus__c" />
-                            <option value="Contacts__c.Name__c" />
-                            <option value="Contact.Level__c" />
-                            <option value="Goal.OrigGoalId__c" />
-                            <option value="Product__c.Date_of_receiving__c" />
-                            <option value="Store__c.Start_Period__c" />
-                            <option value="Account.SLA__c" />
-                            <option value="Company__c.Address__c" />
-                            <option value="Lead.SICCode__c" />
-                            <option value="Contact.Languages__c" />
-                            <option value="Company__c.Description__c" />
-                            <option value="raw_material__c.Date_of_receiving__c" />
-                            <option value="CaseComment.CommentBody" />
-                            <option value="Contacts__c.Allow_discont__c" />
-                            <option value="Opportunity.CurrentGenerators__c" />
-                            <option value="raw_material__c.Quality__c" />
-                            <option value="Product__c.URL_Image__c" />
-                            <option value="Lead.ProductInterest__c" />
-                            <option value="Discount__c.Percentes_of_discount__c" />
-                            <option value="Lead.NumberofLocations__c" />
-                            <option value="Case.Product__c" />
-                            <option value="Store__c.Amount_of_provided_materials__c" />
-                            <option value="raw_material__c.Store__c" />
-                          </set>
-                        </option>
-                        <option name="name" value="CustomField" />
-                      </MetadataType>
-                      <MetadataType>
-                        <option name="members">
-                          <set>
-                            <option value="Account" />
-                            <option value="CollaborationGroup" />
-                            <option value="Task" />
-                            <option value="ForecastingCategoryMapping" />
-                            <option value="OpportunityLineItem" />
-                            <option value="CaseContactRole" />
-                            <option value="Activity" />
-                            <option value="Document" />
-                            <option value="ContactCleanInfo" />
-                            <option value="ScorecardMetric" />
-                            <option value="PushTopic" />
-                            <option value="ContractContactRole" />
-                            <option value="FeedItem" />
-                            <option value="ExchangeUserMapping" />
-                            <option value="Store__c" />
-                            <option value="SocialPersona" />
-                            <option value="Asset" />
-                            <option value="Product__c" />
-                            <option value="CampaignMember" />
-                            <option value="CollaborationGroupMember" />
-                            <option value="Order" />
-                            <option value="StreamingChannel" />
-                            <option value="AccountContactRole" />
-                            <option value="EmailMessage" />
-                            <option value="Pricebook2" />
-                            <option value="AccountCleanInfo" />
-                            <option value="UserProvisioningRequest" />
-                            <option value="OrgDeleteRequest" />
-                            <option value="PricebookEntry" />
-                            <option value="LeadCleanInfo" />
-                            <option value="Campaign" />
-                            <option value="Idea" />
-                            <option value="raw_material__c" />
-                            <option value="Contract" />
-                            <option value="ScorecardAssociation" />
-                            <option value="OpportunityCompetitor" />
-                            <option value="PartnerRole" />
-                            <option value="MacroAction" />
-                            <option value="Site" />
-                            <option value="User" />
-                            <option value="Product2" />
-                            <option value="Macro" />
-                            <option value="MacroInstruction" />
-                            <option value="DuplicateRecordItem" />
-                            <option value="Company__c" />
-                            <option value="CaseComment" />
-                            <option value="Case" />
-                            <option value="ContentVersion" />
-                            <option value="Contacts__c" />
-                            <option value="Opportunity" />
-                            <option value="Lead" />
-                            <option value="DuplicateRecordSet" />
-                            <option value="Scorecard" />
-                            <option value="Topic" />
-                            <option value="Solution" />
-                            <option value="StreamActivityAccess" />
-                            <option value="QuickText" />
-                            <option value="AssetRelationship" />
-                            <option value="DandBCompany" />
-                            <option value="OpportunityContactRole" />
-                            <option value="Contact" />
-                            <option value="Discount__c" />
-                            <option value="RequestsForAccessSIQ" />
-                            <option value="OrderItem" />
-                            <option value="AssistantProgress" />
-                            <option value="Event" />
-                            <option value="RecordAction" />
-                            <option value="TopicAssignment" />
-                          </set>
-                        </option>
-                        <option name="name" value="CustomObject" />
-                      </MetadataType>
-                      <MetadataType>
-                        <option name="members">
-                          <set>
-                            <option value="TriggerHandler" />
-                            <option value="ProductTriggerHandler" />
-                            <option value="RawMaterialTrigger" />
-                            <option value="GetProductController" />
-                          </set>
-                        </option>
-                        <option name="name" value="ApexClass" />
-                      </MetadataType>
-                      <MetadataType>
-                        <option name="members">
-                          <set>
-                            <option value="Order.AllActivatedOrders" />
-                            <option value="Opportunity.NewThisWeek" />
-                            <option value="Case.AllOpenCases" />
-                            <option value="Case.MyCases" />
-                            <option value="Order.AllDraftOrders" />
-                            <option value="User.ActiveUsers" />
-                            <option value="Order.AllOrders" />
-                            <option value="Scorecard.MyScorecards" />
-                            <option value="Opportunity.ClosingNextMonth" />
-                            <option value="Contact.AllContacts" />
-                            <option value="Case.MyOpenCases" />
-                            <option value="Opportunity.Default_Opportunity_Pipeline" />
-                            <option value="Opportunity.Private" />
-                            <option value="Contract.AllContracts" />
-                            <option value="Discount__c.All" />
-                            <option value="Contract.MyActivatedContracts" />
-                            <option value="Contract.AllDraftContracts" />
-                            <option value="WorkFeedbackRequest.AboutTopics" />
-                            <option value="Contact.NewLastWeek" />
-                            <option value="Task.DelegatedTasks" />
-                            <option value="SocialPersona.AllSocialPersonas" />
-                            <option value="User.AllUsers" />
-                            <option value="Contract.MyDraftContracts" />
-                            <option value="Task.UnscheduledTasks" />
-                            <option value="Lead.TodaysLeads" />
-                            <option value="Task.CompletedTasks" />
-                            <option value="Solution.AllUnreviewedSolutions" />
-                            <option value="Account.NewLastWeek" />
-                            <option value="Activity.UpcomingEvents" />
-                            <option value="Account.MyAccounts" />
-                            <option value="Opportunity.AllOpportunities" />
-                            <option value="Task.OpenTasks" />
-                            <option value="Task.OverdueTasks" />
-                            <option value="Store__c.All" />
-                            <option value="Contact.BirthdaysThisMonth" />
-                            <option value="Opportunity.ClosingThisMonth" />
-                            <option value="Account.AllAccounts" />
-                            <option value="CollaborationGroup.All_ChatterGroups" />
-                            <option value="Contact.NewThisWeek" />
-                            <option value="Activity.AllActivities" />
-                            <option value="Product__c.All" />
-                            <option value="Opportunity.NewLastWeek" />
-                            <option value="Asset.AllAssets" />
-                            <option value="Company__c.All" />
-                            <option value="User.AdminUsers" />
-                            <option value="Scorecard.AllScorecards" />
-                            <option value="Campaign.MyActiveCampaigns" />
-                            <option value="raw_material__c.All" />
-                            <option value="Opportunity.MyOpportunities" />
-                            <option value="Lead.MyUnreadLeads" />
-                            <option value="Campaign.AllActiveCampaigns" />
-                            <option value="Product2.AllProducts" />
-                            <option value="Contact.MyContacts" />
-                            <option value="Activity.TodaysTasks" />
-                            <option value="Task.RecurringTasks" />
-                            <option value="Opportunity.Won" />
-                            <option value="Case.AllClosedCases" />
-                            <option value="Solution.AllReviewedSolutions" />
-                            <option value="Account.PlatinumandGoldSLACustomers" />
-                            <option value="Task.TodaysTasks" />
-                            <option value="Contract.MyInApprovalContracts" />
-                            <option value="Activity.MyActivities" />
-                            <option value="Contract.AllInApprovalContracts" />
-                            <option value="Contacts__c.All" />
-                            <option value="WorkFeedbackTemplate.All" />
-                            <option value="Lead.AllOpenLeads" />
-                            <option value="Account.NewThisWeek" />
-                            <option value="WorkFeedbackRequest.All" />
-                            <option value="Lead.ViewCustom1" />
-                            <option value="Idea.Ideas_Last_7_Days" />
-                            <option value="Lead.ViewCustom2" />
-                            <option value="Contract.AllActivatedContracts" />
-                          </set>
-                        </option>
-                        <option name="name" value="ListView" />
-                      </MetadataType>
-                      <MetadataType>
-                        <option name="members">
-                          <set>
-                            <option value="Account" />
-                            <option value="Lead" />
-                            <option value="Contact" />
-                          </set>
-                        </option>
-                        <option name="name" value="MatchingRules" />
-                      </MetadataType>
-                      <MetadataType>
-                        <option name="members">
-                          <set>
-                            <option value="Contact.Standard_Contact_Match_Rule_v1_1" />
-                            <option value="Lead.Standard_Lead_Match_Rule_v1_0" />
-                            <option value="Account.Standard_Account_Match_Rule_v1_0" />
-                          </set>
-                        </option>
-                        <option name="name" value="MatchingRule" />
-                      </MetadataType>
-                      <MetadataType>
-                        <option name="members">
-                          <set>
-                            <option value="Lead" />
-                            <option value="Case" />
-                          </set>
-                        </option>
-                        <option name="name" value="AssignmentRules" />
-                      </MetadataType>
-                      <MetadataType>
-                        <option name="members">
-                          <set>
-                            <option value="Lead.Standard" />
-                            <option value="Case.Standard" />
-                          </set>
-                        </option>
-                        <option name="name" value="AssignmentRule" />
-                      </MetadataType>
-                      <MetadataType>
-                        <option name="members">
-                          <set>
-                            <option value="standard__Sales" />
-                            <option value="standard__LightningService" />
-                            <option value="standard__ServiceConsole" />
-                            <option value="standard__Community" />
-                            <option value="standard__AppLauncher" />
-                            <option value="standard__Chatter" />
-                            <option value="standard__LightningInstrumentation" />
-                            <option value="standard__Platform" />
-                            <option value="standard__LightningSales" />
-                            <option value="standard__Service" />
-                            <option value="Manufacture" />
-                            <option value="standard__Marketing" />
-                            <option value="standard__Sites" />
-                            <option value="standard__Content" />
-                            <option value="standard__LightningBolt" />
-                            <option value="standard__Insights" />
-                            <option value="standard__LightningSalesConsole" />
-                          </set>
-                        </option>
-                        <option name="name" value="CustomApplication" />
-                      </MetadataType>
-                      <MetadataType>
-                        <option name="members">
-                          <set>
-                            <option value="Order" />
-                            <option value="Account" />
-                            <option value="Task" />
-                            <option value="Company__c" />
-                            <option value="Case" />
-                            <option value="Contact" />
-                            <option value="ContentDocument" />
-                            <option value="Discount__c" />
-                            <option value="Campaign" />
-                            <option value="Store__c" />
-                            <option value="Opportunity" />
-                            <option value="Contacts__c" />
-                            <option value="Lead" />
-                            <option value="Event" />
-                            <option value="Asset" />
-                            <option value="raw_material__c" />
-                            <option value="Product__c" />
-                            <option value="Contract" />
-                            <option value="Solution" />
-                          </set>
-                        </option>
-                        <option name="name" value="TopicsForObjects" />
+                        <option name="name" value="QuickAction" />
                       </MetadataType>
                       <MetadataType>
                         <option name="members">
@@ -843,11 +313,292 @@
                       <MetadataType>
                         <option name="members">
                           <set>
+                            <option value="Account" />
+                            <option value="Lead" />
+                            <option value="Contact" />
+                          </set>
+                        </option>
+                        <option name="name" value="MatchingRules" />
+                      </MetadataType>
+                      <MetadataType>
+                        <option name="members">
+                          <set>
+                            <option value="Custom%3A Support Profile" />
+                            <option value="Customer Community Plus Login User" />
+                            <option value="Analytics Cloud Integration User" />
+                            <option value="High Volume Customer Portal User" />
+                            <option value="Force%2Ecom - Free User" />
+                            <option value="Cross Org Data Proxy User" />
+                            <option value="PlatformPortal" />
+                            <option value="External Identity User" />
+                            <option value="Force%2Ecom - App Subscription User" />
+                            <option value="Standard" />
+                            <option value="Chatter External User" />
+                            <option value="Identity User" />
+                            <option value="Custom%3A Sales Profile" />
+                            <option value="Partner Community Login User" />
+                            <option value="ContractManager" />
+                            <option value="Customer Community Plus User" />
+                            <option value="Partner Community User" />
+                            <option value="StandardAul" />
+                            <option value="Chatter Moderator User" />
+                            <option value="Gold Partner User" />
+                            <option value="ReadOnly" />
+                            <option value="SolutionManager" />
+                            <option value="Chatter Free User" />
+                            <option value="HighVolumePortal" />
+                            <option value="Customer Portal Manager Standard" />
+                            <option value="MarketingProfile" />
+                            <option value="Customer Community Login User" />
+                            <option value="Analytics Cloud Security User" />
+                            <option value="Admin" />
+                            <option value="Silver Partner User" />
+                            <option value="Partner App Subscription User" />
+                            <option value="Work%2Ecom Only User" />
+                            <option value="Authenticated Website" />
+                            <option value="Customer Community User" />
+                            <option value="Custom%3A Marketing Profile" />
+                            <option value="Customer Portal Manager Custom" />
+                            <option value="CPQ Integration User" />
+                          </set>
+                        </option>
+                        <option name="name" value="Profile" />
+                      </MetadataType>
+                      <MetadataType>
+                        <option name="members">
+                          <set>
+                            <option value="Order" />
+                            <option value="Account" />
+                            <option value="User" />
+                            <option value="Company__c" />
+                            <option value="Contact" />
+                            <option value="Case" />
+                            <option value="FlowInterview" />
+                            <option value="Discount__c" />
+                            <option value="Campaign" />
+                            <option value="ListEmail" />
+                            <option value="Store__c" />
+                            <option value="Contacts__c" />
+                            <option value="Opportunity" />
+                            <option value="Lead" />
+                            <option value="Asset" />
+                          </set>
+                        </option>
+                        <option name="name" value="SharingRules" />
+                      </MetadataType>
+                      <MetadataType>
+                        <option name="members">
+                          <set>
+                            <option value="standard__Sales" />
+                            <option value="standard__LightningService" />
+                            <option value="standard__ServiceConsole" />
+                            <option value="standard__Community" />
+                            <option value="standard__AppLauncher" />
+                            <option value="standard__LightningInstrumentation" />
+                            <option value="standard__Chatter" />
+                            <option value="standard__Platform" />
+                            <option value="standard__LightningSales" />
+                            <option value="standard__Service" />
+                            <option value="Manufacture" />
+                            <option value="standard__Marketing" />
+                            <option value="standard__Sites" />
+                            <option value="standard__Content" />
+                            <option value="standard__Insights" />
+                            <option value="standard__LightningSalesConsole" />
+                            <option value="standard__LightningBolt" />
+                          </set>
+                        </option>
+                        <option name="name" value="CustomApplication" />
+                      </MetadataType>
+                      <MetadataType>
+                        <option name="members">
+                          <set>
+                            <option value="CustomLabels" />
+                          </set>
+                        </option>
+                        <option name="name" value="CustomLabels" />
+                      </MetadataType>
+                      <MetadataType>
+                        <option name="members">
+                          <set>
+                            <option value="Order.AllActivatedOrders" />
+                            <option value="Opportunity.NewThisWeek" />
+                            <option value="Case.AllOpenCases" />
+                            <option value="Case.MyCases" />
+                            <option value="Order.AllDraftOrders" />
+                            <option value="User.ActiveUsers" />
+                            <option value="Order.AllOrders" />
+                            <option value="Scorecard.MyScorecards" />
+                            <option value="Opportunity.ClosingNextMonth" />
+                            <option value="Contact.AllContacts" />
+                            <option value="Opportunity.Default_Opportunity_Pipeline" />
+                            <option value="Case.MyOpenCases" />
+                            <option value="Opportunity.Private" />
+                            <option value="Contract.AllContracts" />
+                            <option value="Discount__c.All" />
+                            <option value="Contract.MyActivatedContracts" />
+                            <option value="Contract.AllDraftContracts" />
+                            <option value="WorkFeedbackRequest.AboutTopics" />
+                            <option value="Contact.NewLastWeek" />
+                            <option value="Task.DelegatedTasks" />
+                            <option value="SocialPersona.AllSocialPersonas" />
+                            <option value="User.AllUsers" />
+                            <option value="Contract.MyDraftContracts" />
+                            <option value="Task.UnscheduledTasks" />
+                            <option value="Lead.TodaysLeads" />
+                            <option value="Task.CompletedTasks" />
+                            <option value="Solution.AllUnreviewedSolutions" />
+                            <option value="Activity.UpcomingEvents" />
+                            <option value="Account.NewLastWeek" />
+                            <option value="Account.MyAccounts" />
+                            <option value="Opportunity.AllOpportunities" />
+                            <option value="Task.OpenTasks" />
+                            <option value="Task.OverdueTasks" />
+                            <option value="Store__c.All" />
+                            <option value="Contact.BirthdaysThisMonth" />
+                            <option value="Account.AllAccounts" />
+                            <option value="Opportunity.ClosingThisMonth" />
+                            <option value="CollaborationGroup.All_ChatterGroups" />
+                            <option value="Contact.NewThisWeek" />
+                            <option value="Activity.AllActivities" />
+                            <option value="Product__c.All" />
+                            <option value="Opportunity.NewLastWeek" />
+                            <option value="Asset.AllAssets" />
+                            <option value="Company__c.All" />
+                            <option value="User.AdminUsers" />
+                            <option value="Scorecard.AllScorecards" />
+                            <option value="Campaign.MyActiveCampaigns" />
+                            <option value="Opportunity.MyOpportunities" />
+                            <option value="raw_material__c.All" />
+                            <option value="Lead.MyUnreadLeads" />
+                            <option value="Product2.AllProducts" />
+                            <option value="Campaign.AllActiveCampaigns" />
+                            <option value="Activity.TodaysTasks" />
+                            <option value="Contact.MyContacts" />
+                            <option value="Task.RecurringTasks" />
+                            <option value="Opportunity.Won" />
+                            <option value="Case.AllClosedCases" />
+                            <option value="Solution.AllReviewedSolutions" />
+                            <option value="Account.PlatinumandGoldSLACustomers" />
+                            <option value="Task.TodaysTasks" />
+                            <option value="Activity.MyActivities" />
+                            <option value="Contract.MyInApprovalContracts" />
+                            <option value="Contract.AllInApprovalContracts" />
+                            <option value="Contacts__c.All" />
+                            <option value="WorkFeedbackTemplate.All" />
+                            <option value="Lead.AllOpenLeads" />
+                            <option value="Account.NewThisWeek" />
+                            <option value="WorkFeedbackRequest.All" />
+                            <option value="Lead.ViewCustom1" />
+                            <option value="Idea.Ideas_Last_7_Days" />
+                            <option value="Lead.ViewCustom2" />
+                            <option value="Contract.AllActivatedContracts" />
+                          </set>
+                        </option>
+                        <option name="name" value="ListView" />
+                      </MetadataType>
+                      <MetadataType>
+                        <option name="members">
+                          <set>
+                            <option value="Lead.Standard_Lead_Duplicate_Rule" />
+                            <option value="Account.Standard_Account_Duplicate_Rule" />
+                            <option value="Contact.Standard_Contact_Duplicate_Rule" />
+                          </set>
+                        </option>
+                        <option name="name" value="DuplicateRule" />
+                      </MetadataType>
+                      <MetadataType>
+                        <option name="members">
+                          <set>
+                            <option value="Metric.Progress" />
+                            <option value="raw_material__c.Used" />
+                            <option value="raw_material__c.Provided" />
+                            <option value="Contacts__c.Provider" />
+                            <option value="Metric.Completion" />
+                            <option value="Contacts__c.Client" />
+                            <option value="Product__c.Sold" />
+                            <option value="Product__c.Made" />
+                          </set>
+                        </option>
+                        <option name="name" value="RecordType" />
+                      </MetadataType>
+                      <MetadataType>
+                        <option name="members">
+                          <set>
+                            <option value="CPQIntegrationUserApp" />
+                          </set>
+                        </option>
+                        <option name="name" value="ConnectedApp" />
+                      </MetadataType>
+                      <MetadataType>
+                        <option name="members">
+                          <set>
                             <option value="Lead" />
                             <option value="Case" />
                           </set>
                         </option>
                         <option name="name" value="AutoResponseRules" />
+                      </MetadataType>
+                      <MetadataType>
+                        <option name="members">
+                          <set>
+                            <option value="Test" />
+                            <option value="ProductTrigger" />
+                            <option value="RawMaterialTrigger" />
+                            <option value="changeValueAfter" />
+                          </set>
+                        </option>
+                        <option name="name" value="ApexTrigger" />
+                      </MetadataType>
+                      <MetadataType>
+                        <option name="members">
+                          <set>
+                            <option value="Account" />
+                            <option value="Company" />
+                            <option value="Address" />
+                            <option value="Macro" />
+                            <option value="Product" />
+                            <option value="Security" />
+                            <option value="Knowledge" />
+                            <option value="Case" />
+                            <option value="Ideas" />
+                            <option value="Name" />
+                            <option value="FieldService" />
+                            <option value="SocialCustomerService" />
+                            <option value="OmniChannel" />
+                            <option value="Opportunity" />
+                            <option value="Search" />
+                            <option value="FileUploadAndDownloadSecurity" />
+                            <option value="Order" />
+                            <option value="Activities" />
+                            <option value="OrgPreference" />
+                            <option value="BusinessHours" />
+                            <option value="Mobile" />
+                            <option value="Forecasting" />
+                            <option value="Quote" />
+                            <option value="LiveAgent" />
+                            <option value="Entitlement" />
+                            <option value="PathAssistant" />
+                            <option value="Contract" />
+                          </set>
+                        </option>
+                        <option name="name" value="Settings" />
+                      </MetadataType>
+                      <MetadataType>
+                        <option name="members">
+                          <set>
+                            <option value="DataCloudGeoLocation" />
+                          </set>
+                        </option>
+                        <option name="name" value="CleanDataService" />
+                      </MetadataType>
+                      <MetadataType>
+                        <option name="members">
+                          <set>
+                            <option value="unfiled$public" />
+                          </set>
+                        </option>
+                        <option name="name" value="EmailFolder" />
                       </MetadataType>
                       <MetadataType>
                         <option name="members">
@@ -862,45 +613,6 @@
                       <MetadataType>
                         <option name="members">
                           <set>
-                            <option value="CPQIntegrationUserApp" />
-                          </set>
-                        </option>
-                        <option name="name" value="ConnectedApp" />
-                      </MetadataType>
-                      <MetadataType>
-                        <option name="members">
-                          <set>
-                            <option value="NewGroup" />
-                            <option value="Task.EditDescription" />
-                            <option value="FeedItem.NewTaskFromFeedItem" />
-                            <option value="NewNote" />
-                            <option value="Task.EditDescription_0" />
-                            <option value="CollaborationGroup.NewGroupMember" />
-                            <option value="CollaborationGroup.NewGroupRecord" />
-                            <option value="SendEmail" />
-                            <option value="NewLead" />
-                            <option value="Task.UpdateStatus" />
-                            <option value="NewOpportunity" />
-                            <option value="NewTask" />
-                            <option value="Task.Defer_0" />
-                            <option value="NewAccount" />
-                            <option value="Task.UpdateStatus_0" />
-                            <option value="Case.NewChildCase" />
-                            <option value="Task.UpdatePriority" />
-                            <option value="Case.LogACall" />
-                            <option value="Task.UpdatePriority_0" />
-                            <option value="NewContact" />
-                            <option value="NewCase" />
-                            <option value="Task.Defer" />
-                            <option value="LogACall" />
-                            <option value="NewEvent" />
-                          </set>
-                        </option>
-                        <option name="name" value="QuickAction" />
-                      </MetadataType>
-                      <MetadataType>
-                        <option name="members">
-                          <set>
                             <option value="Salesforce1" />
                             <option value="AppSwitcher" />
                           </set>
@@ -910,10 +622,349 @@
                       <MetadataType>
                         <option name="members">
                           <set>
-                            <option value="CPQIntegrationUserCert" />
+                            <option value="Account" />
+                            <option value="CollaborationGroup" />
+                            <option value="Task" />
+                            <option value="OpportunityLineItem" />
+                            <option value="ForecastingCategoryMapping" />
+                            <option value="CaseContactRole" />
+                            <option value="Activity" />
+                            <option value="Document" />
+                            <option value="ContactCleanInfo" />
+                            <option value="ScorecardMetric" />
+                            <option value="PushTopic" />
+                            <option value="FeedItem" />
+                            <option value="ContractContactRole" />
+                            <option value="Store__c" />
+                            <option value="ExchangeUserMapping" />
+                            <option value="SocialPersona" />
+                            <option value="Asset" />
+                            <option value="Product__c" />
+                            <option value="CampaignMember" />
+                            <option value="CollaborationGroupMember" />
+                            <option value="Order" />
+                            <option value="StreamingChannel" />
+                            <option value="AccountContactRole" />
+                            <option value="EmailMessage" />
+                            <option value="Pricebook2" />
+                            <option value="AccountCleanInfo" />
+                            <option value="UserProvisioningRequest" />
+                            <option value="PricebookEntry" />
+                            <option value="OrgDeleteRequest" />
+                            <option value="LeadCleanInfo" />
+                            <option value="Campaign" />
+                            <option value="Idea" />
+                            <option value="raw_material__c" />
+                            <option value="ScorecardAssociation" />
+                            <option value="Contract" />
+                            <option value="OpportunityCompetitor" />
+                            <option value="PartnerRole" />
+                            <option value="Site" />
+                            <option value="MacroAction" />
+                            <option value="User" />
+                            <option value="Product2" />
+                            <option value="Macro" />
+                            <option value="MacroInstruction" />
+                            <option value="DuplicateRecordItem" />
+                            <option value="Company__c" />
+                            <option value="CaseComment" />
+                            <option value="Case" />
+                            <option value="ContentVersion" />
+                            <option value="Contacts__c" />
+                            <option value="Opportunity" />
+                            <option value="Lead" />
+                            <option value="DuplicateRecordSet" />
+                            <option value="Scorecard" />
+                            <option value="Topic" />
+                            <option value="Solution" />
+                            <option value="StreamActivityAccess" />
+                            <option value="AssetRelationship" />
+                            <option value="QuickText" />
+                            <option value="DandBCompany" />
+                            <option value="OpportunityContactRole" />
+                            <option value="Contact" />
+                            <option value="Discount__c" />
+                            <option value="RequestsForAccessSIQ" />
+                            <option value="OrderItem" />
+                            <option value="AssistantProgress" />
+                            <option value="Event" />
+                            <option value="RecordAction" />
+                            <option value="TopicAssignment" />
                           </set>
                         </option>
-                        <option name="name" value="Certificate" />
+                        <option name="name" value="CustomObject" />
+                      </MetadataType>
+                      <MetadataType>
+                        <option name="members">
+                          <set>
+                            <option value="DE Default" />
+                          </set>
+                        </option>
+                        <option name="name" value="HomePageLayout" />
+                      </MetadataType>
+                      <MetadataType>
+                        <option name="members">
+                          <set>
+                            <option value="Case.Standard" />
+                            <option value="Lead.Standard" />
+                          </set>
+                        </option>
+                        <option name="name" value="AssignmentRule" />
+                      </MetadataType>
+                      <MetadataType>
+                        <option name="members">
+                          <set>
+                            <option value="Order" />
+                            <option value="Account" />
+                            <option value="Task" />
+                            <option value="Company__c" />
+                            <option value="Case" />
+                            <option value="Contact" />
+                            <option value="ContentDocument" />
+                            <option value="Discount__c" />
+                            <option value="Campaign" />
+                            <option value="Store__c" />
+                            <option value="Contacts__c" />
+                            <option value="Opportunity" />
+                            <option value="Lead" />
+                            <option value="raw_material__c" />
+                            <option value="Event" />
+                            <option value="Asset" />
+                            <option value="Product__c" />
+                            <option value="Contract" />
+                            <option value="Solution" />
+                          </set>
+                        </option>
+                        <option name="name" value="TopicsForObjects" />
+                      </MetadataType>
+                      <MetadataType>
+                        <option name="members">
+                          <set>
+                            <option value="unfiled$public" />
+                          </set>
+                        </option>
+                        <option name="name" value="ReportFolder" />
+                      </MetadataType>
+                      <MetadataType>
+                        <option name="members">
+                          <set>
+                            <option value="Case.Standard" />
+                          </set>
+                        </option>
+                        <option name="name" value="EscalationRule" />
+                      </MetadataType>
+                      <MetadataType>
+                        <option name="members">
+                          <set>
+                            <option value="Campaign.ViewCampaignInfluenceReport" />
+                            <option value="Opportunity.DeliveryStatus" />
+                            <option value="Case.UpsellCrosssellOpportunity" />
+                            <option value="Account.Billing" />
+                          </set>
+                        </option>
+                        <option name="name" value="WebLink" />
+                      </MetadataType>
+                      <MetadataType>
+                        <option name="members">
+                          <set>
+                            <option value="DirectorDirectSales" />
+                            <option value="SVPSalesMarketing" />
+                            <option value="MarketingTeam" />
+                            <option value="COO" />
+                            <option value="DirectorChannelSales" />
+                            <option value="InstallationRepairServices" />
+                            <option value="SVPHumanResources" />
+                            <option value="SVPCustomerServiceSupport" />
+                            <option value="VPInternationalSales" />
+                            <option value="CEO" />
+                            <option value="EasternSalesTeam" />
+                            <option value="ChannelSalesTeam" />
+                            <option value="CustomerSupportInternational" />
+                            <option value="CFO" />
+                            <option value="WesternSalesTeam" />
+                            <option value="CustomerSupportNorthAmerica" />
+                            <option value="VPMarketing" />
+                            <option value="VPNorthAmericanSales" />
+                          </set>
+                        </option>
+                        <option name="name" value="Role" />
+                      </MetadataType>
+                      <MetadataType>
+                        <option name="members">
+                          <set>
+                            <option value="ProductList" />
+                            <option value="ProductPage" />
+                            <option value="BuyProduct" />
+                          </set>
+                        </option>
+                        <option name="name" value="ApexPage" />
+                      </MetadataType>
+                      <MetadataType>
+                        <option name="members">
+                          <set>
+                            <option value="Case" />
+                          </set>
+                        </option>
+                        <option name="name" value="EscalationRules" />
+                      </MetadataType>
+                      <MetadataType>
+                        <option name="members">
+                          <set>
+                            <option value="ApexDevNet" />
+                          </set>
+                        </option>
+                        <option name="name" value="RemoteSiteSetting" />
+                      </MetadataType>
+                      <MetadataType>
+                        <option name="members">
+                          <set>
+                            <option value="Account-Account %28Sales%29 Layout" />
+                            <option value="Contact-Contact %28Support%29 Layout" />
+                            <option value="Product2-Product Layout" />
+                            <option value="Lead-Lead Layout" />
+                            <option value="Case-Case %28Sales%29 Layout" />
+                            <option value="Contact-Contact Layout" />
+                            <option value="Lead-Lead %28Support%29 Layout" />
+                            <option value="DandBCompany-D%26B Company Layout" />
+                            <option value="AssetRelationship-Asset Relationship Layout" />
+                            <option value="Case-Case %28Support%29 Layout" />
+                            <option value="Macro-Macro Layout" />
+                            <option value="Order-Order Layout" />
+                            <option value="ScorecardMetric-Scorecard Metric Layout" />
+                            <option value="Solution-Solution Layout" />
+                            <option value="UserProvisioningRequest-User Provisioning Request Layout" />
+                            <option value="Pricebook2-Price Book Layout" />
+                            <option value="Event-Event Layout" />
+                            <option value="UserProvisioningLog-User Provisioning Log Layout" />
+                            <option value="UserProvAccount-User Provisioning Account Layout" />
+                            <option value="Contact-Contact %28Marketing%29 Layout" />
+                            <option value="Task-Task Layout" />
+                            <option value="Product__c-Product Layout" />
+                            <option value="Opportunity-Opportunity Layout" />
+                            <option value="Asset-Asset Layout" />
+                            <option value="DuplicateRecordSet-Duplicate Record Set Layout" />
+                            <option value="OrderItem-Order Product Layout" />
+                            <option value="OpportunityLineItem-Opportunity Product Layout" />
+                            <option value="Case-Case Layout" />
+                            <option value="Contract-Contract Layout" />
+                            <option value="Account-Account Layout" />
+                            <option value="Campaign-Campaign Layout" />
+                            <option value="Contacts__c-Contacts Layout" />
+                            <option value="ScorecardAssociation-Scorecard Association Layout" />
+                            <option value="Opportunity-Opportunity %28Sales%29 Layout" />
+                            <option value="SocialPersona-Social Persona Layout" />
+                            <option value="Discount__c-Discount Layout" />
+                            <option value="Scorecard-Scorecard Layout" />
+                            <option value="Company__c-Company Layout" />
+                            <option value="Case-Case %28Marketing%29 Layout" />
+                            <option value="PricebookEntry-Price Book Entry Layout" />
+                            <option value="CaseClose-Close Case Layout" />
+                            <option value="Idea-Idea Layout" />
+                            <option value="ContentVersion-Content Version Layout" />
+                            <option value="Store__c-Store Layout" />
+                            <option value="Opportunity-Opportunity %28Support%29 Layout" />
+                            <option value="Global-Global Layout" />
+                            <option value="Account-Account %28Marketing%29 Layout" />
+                            <option value="Lead-Lead %28Sales%29 Layout" />
+                            <option value="EmailMessage-Email Message Layout" />
+                            <option value="SocialPost-Social Post Layout" />
+                            <option value="Account-Account %28Support%29 Layout" />
+                            <option value="CampaignMember-Campaign Member Page Layout" />
+                            <option value="QuickText-Quick Text Layout" />
+                            <option value="Contact-Contact %28Sales%29 Layout" />
+                            <option value="User-User Layout" />
+                            <option value="Lead-Lead %28Marketing%29 Layout" />
+                            <option value="raw_material__c-raw material Layout" />
+                            <option value="Opportunity-Opportunity %28Marketing%29 Layout" />
+                          </set>
+                        </option>
+                        <option name="name" value="Layout" />
+                      </MetadataType>
+                      <MetadataType>
+                        <option name="members">
+                          <set>
+                            <option value="TriggerHandler" />
+                            <option value="BuyProductController" />
+                            <option value="ProductTriggerHandler" />
+                            <option value="RawMaterialTrigger" />
+                            <option value="GetProductController" />
+                          </set>
+                        </option>
+                        <option name="name" value="ApexClass" />
+                      </MetadataType>
+                      <MetadataType>
+                        <option name="members">
+                          <set>
+                            <option value="raw_material__c.Name__c" />
+                            <option value="Product__c.Title__c" />
+                            <option value="Product__c.Sale_status__c" />
+                            <option value="Contacts__c.Address__c" />
+                            <option value="Product__c.Store__c" />
+                            <option value="Case.SLAViolation__c" />
+                            <option value="Lead.Primary__c" />
+                            <option value="Lead.CurrentGenerators__c" />
+                            <option value="Account.NumberofLocations__c" />
+                            <option value="raw_material__c.Title__c" />
+                            <option value="raw_material__c.Number__c" />
+                            <option value="Opportunity.MainCompetitors__c" />
+                            <option value="Account.SLASerialNumber__c" />
+                            <option value="Account.UpsellOpportunity__c" />
+                            <option value="Contacts__c.Email__c" />
+                            <option value="Account.CustomerPriority__c" />
+                            <option value="Discount__c.Discount_Code__c" />
+                            <option value="raw_material__c.Amount__c" />
+                            <option value="Contacts__c.Phone__c" />
+                            <option value="raw_material__c.Made_in__c" />
+                            <option value="Product__c.Image__c" />
+                            <option value="Product__c.Date_of_purchase__c" />
+                            <option value="Discount__c.Static_discount__c" />
+                            <option value="Store__c.End_Period__c" />
+                            <option value="Product__c.Cost__c" />
+                            <option value="Opportunity.OrderNumber__c" />
+                            <option value="Store__c.Spent_of_provided_materials__c" />
+                            <option value="Metric.OrigMetricId__c" />
+                            <option value="Case.EngineeringReqNumber__c" />
+                            <option value="raw_material__c.Contact__c" />
+                            <option value="Product__c.Description__c" />
+                            <option value="Account.SLAExpirationDate__c" />
+                            <option value="Product__c.Amount__c" />
+                            <option value="Store__c.Amount_of_goods__c" />
+                            <option value="Company__c.Name__c" />
+                            <option value="Contacts__c.Description__c" />
+                            <option value="Case.PotentialLiability__c" />
+                            <option value="Company__c.Phone__c" />
+                            <option value="Product__c.Number_of_purchase__c" />
+                            <option value="Product__c.Name__c" />
+                            <option value="Opportunity.TrackingNumber__c" />
+                            <option value="Product__c.Contacts__c" />
+                            <option value="Account.Active__c" />
+                            <option value="Store__c.Amount_of_sold_goods__c" />
+                            <option value="CaseComment.ParentOrigin" />
+                            <option value="Opportunity.DeliveryInstallationStatus__c" />
+                            <option value="Contact.Level__c" />
+                            <option value="Goal.OrigGoalId__c" />
+                            <option value="Product__c.Date_of_receiving__c" />
+                            <option value="Store__c.Start_Period__c" />
+                            <option value="Account.SLA__c" />
+                            <option value="Company__c.Address__c" />
+                            <option value="Lead.SICCode__c" />
+                            <option value="Contact.Languages__c" />
+                            <option value="Company__c.Description__c" />
+                            <option value="raw_material__c.Date_of_receiving__c" />
+                            <option value="CaseComment.CommentBody" />
+                            <option value="Contacts__c.Allow_discont__c" />
+                            <option value="Opportunity.CurrentGenerators__c" />
+                            <option value="raw_material__c.Quality__c" />
+                            <option value="Product__c.URL_Image__c" />
+                            <option value="Lead.ProductInterest__c" />
+                            <option value="Discount__c.Percentes_of_discount__c" />
+                            <option value="Lead.NumberofLocations__c" />
+                            <option value="Case.Product__c" />
+                            <option value="Store__c.Amount_of_provided_materials__c" />
+                            <option value="raw_material__c.Store__c" />
+                          </set>
+                        </option>
+                        <option name="name" value="CustomField" />
                       </MetadataType>
                       <MetadataType>
                         <option name="members">
@@ -980,22 +1031,6 @@
                       <MetadataType>
                         <option name="members">
                           <set>
-                            <option value="unfiled$public" />
-                          </set>
-                        </option>
-                        <option name="name" value="EmailFolder" />
-                      </MetadataType>
-                      <MetadataType>
-                        <option name="members">
-                          <set>
-                            <option value="unfiled$public" />
-                          </set>
-                        </option>
-                        <option name="name" value="ReportFolder" />
-                      </MetadataType>
-                      <MetadataType>
-                        <option name="members">
-                          <set>
                             <option value="unfiled$public/SUPPORTSelfServiceResetPasswordSAMPLE" />
                             <option value="unfiled$public/SupportSelfServiceResetPassword" />
                             <option value="unfiled$public/SupportCaseCreatedPhoneInquiries" />
@@ -1007,11 +1042,59 @@
                             <option value="unfiled$public/SUPPORTSelfServiceNewCommentNotificationSAMPLE" />
                             <option value="unfiled$public/SupportCaseCreatedWebInquiries" />
                             <option value="unfiled$public/SupportEscalatedCaseNotification" />
-                            <option value="unfiled$public/SupportEscalatedCaseReassignment" />
                             <option value="unfiled$public/MarketingProductInquiryResponse" />
+                            <option value="unfiled$public/SupportEscalatedCaseReassignment" />
                           </set>
                         </option>
                         <option name="name" value="EmailTemplate" />
+                      </MetadataType>
+                      <MetadataType>
+                        <option name="members">
+                          <set>
+                            <option value="Store__c-en_US" />
+                            <option value="raw_material__c-en_US" />
+                            <option value="Discount__c-en_US" />
+                            <option value="Contacts__c-en_US" />
+                            <option value="Company__c-en_US" />
+                            <option value="Product__c-en_US" />
+                          </set>
+                        </option>
+                        <option name="name" value="CustomObjectTranslation" />
+                      </MetadataType>
+                      <MetadataType>
+                        <option name="members">
+                          <set>
+                            <option value="Lead" />
+                            <option value="Case" />
+                          </set>
+                        </option>
+                        <option name="name" value="AssignmentRules" />
+                      </MetadataType>
+                      <MetadataType>
+                        <option name="members">
+                          <set>
+                            <option value="Contact.Standard_Contact_Match_Rule_v1_1" />
+                            <option value="Account.Standard_Account_Match_Rule_v1_0" />
+                            <option value="Lead.Standard_Lead_Match_Rule_v1_0" />
+                          </set>
+                        </option>
+                        <option name="name" value="MatchingRule" />
+                      </MetadataType>
+                      <MetadataType>
+                        <option name="members">
+                          <set>
+                            <option value="Internal Zone" />
+                          </set>
+                        </option>
+                        <option name="name" value="Community" />
+                      </MetadataType>
+                      <MetadataType>
+                        <option name="members">
+                          <set>
+                            <option value="CPQIntegrationUserCert" />
+                          </set>
+                        </option>
+                        <option name="name" value="Certificate" />
                       </MetadataType>
                     </set>
                   </option>
@@ -1039,9 +1122,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
-      <pane id="AndroidView" />
       <pane id="Scope" />
+      <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -1070,6 +1152,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -1149,14 +1232,14 @@
     <frame x="993" y="25" width="927" height="1055" extended-state="4" />
     <editor active="true" />
     <layout>
-      <window_info anchor="bottom" id="Illuminated Cloud" />
+      <window_info anchor="bottom" id="Illuminated Cloud" order="7" />
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Messages" order="7" sideWeight="0.8096292" weight="0.329718" />
       <window_info anchor="right" id="Palette&#9;" order="3" />
       <window_info id="Image Layers" order="2" />
       <window_info anchor="right" id="Capture Analysis" order="3" />
-      <window_info active="true" anchor="bottom" id="Event Log" order="7" sideWeight="0.116912596" side_tool="true" visible="true" weight="0.335141" />
+      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.11710677" side_tool="true" visible="true" weight="0.29175705" />
       <window_info anchor="bottom" id="Anonymous Apex" order="7" sideWeight="0.8830874" weight="0.329718" />
       <window_info anchor="right" id="Maven Projects" order="3" />
       <window_info anchor="bottom" id="Run" order="2" />
@@ -1164,20 +1247,20 @@
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.0" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.32576618" />
       <window_info anchor="bottom" id="SOQL Query" order="7" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Log Viewer" order="7" />
+      <window_info anchor="bottom" id="Log Viewer" order="7" sideWeight="0.8828932" weight="0.32934782" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="2" />
       <window_info anchor="right" id="Theme Preview" order="3" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Find" order="1" />
     </layout>
     <layout-to-restore>
@@ -1217,6 +1300,62 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/pages/ProductList.page">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" column="39" selection-start-line="20" selection-start-column="39" selection-end-line="20" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pages/BuyProduct.page">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="59" selection-start-line="9" selection-start-column="59" selection-end-line="9" selection-end-column="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pages/ProductPage.page">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="56" selection-start-line="4" selection-start-column="56" selection-end-line="4" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/classes/BuyProductController.cls">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pages/ProductList.page">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="16" selection-start-line="5" selection-start-column="16" selection-end-line="5" selection-end-column="87" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/classes/BuyProductController.cls">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pages/ProductPage.page">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="56" selection-start-line="4" selection-start-column="46" selection-end-line="4" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pages/BuyProduct.page">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="49" lean-forward="true" selection-start-column="49" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/.idea/.name">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -1243,39 +1382,50 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/classes/GetProductController.cls">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="36" selection-start-line="2" selection-start-column="28" selection-end-line="2" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/pages/ProductList.page">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="16" selection-start-line="5" selection-start-column="16" selection-end-line="5" selection-end-column="87" />
-          <folding>
-            <element signature="n#style#0;n#apex:commandLink#0;n#apex:form#0;n#apex:column#3;n#apex:pageBlockTable#0;n#apex:pageBlock#0;n#apex:page#0;n#!!top" expanded="true" />
-          </folding>
+        <state relative-caret-position="165">
+          <caret line="11" column="5" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/pages/ProductPage.page">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
-          <caret line="4" column="56" selection-start-line="4" selection-start-column="46" selection-end-line="4" selection-end-column="56" />
+          <caret line="4" column="56" selection-start-line="4" selection-start-column="56" selection-end-line="4" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/classes/Constants.cls">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="37" lean-forward="true" selection-start-line="6" selection-start-column="31" selection-end-line="6" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pages/ProductList.page">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="26" lean-forward="true" selection-start-line="7" selection-start-column="26" selection-end-line="7" selection-end-column="26" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/classes/BuyProductController.cls">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" selection-start-line="12" selection-end-line="12" />
+        <state relative-caret-position="462">
+          <caret line="46" column="29" selection-start-line="46" selection-start-column="29" selection-end-line="46" selection-end-column="29" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/pages/BuyProduct.page">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="82" selection-start-line="7" selection-start-column="82" selection-end-line="7" selection-end-column="82" />
+        <state relative-caret-position="15">
+          <caret line="1" column="4" lean-forward="true" selection-start-line="1" selection-start-column="4" selection-end-line="1" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pages/OkBuyProduct.page">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="21" selection-start-line="6" selection-start-column="21" selection-end-line="6" selection-end-column="21" />
         </state>
       </provider>
     </entry>
