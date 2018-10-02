@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fd4f7a1b-11dc-4642-990c-9d66fe1b9430" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/classes/BuyProductController.cls" beforeDir="false" afterPath="$PROJECT_DIR$/src/classes/BuyProductController.cls" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/classes/Constants.cls" beforeDir="false" afterPath="$PROJECT_DIR$/src/classes/Constants.cls" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/BuyProduct.page" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/BuyProduct.page" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -26,22 +27,26 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="cls" value="2" />
+          <entry key="cls" value="5" />
+          <entry key="page" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="Apex" value="2" />
+          <entry key="Apex" value="5" />
+          <entry key="Visualforce" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="cls" value="241" />
+          <entry key="cls" value="650" />
+          <entry key="page" value="85" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="Apex" value="241" />
+          <entry key="Apex" value="650" />
+          <entry key="Visualforce" value="85" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.vcs.git.usages" />
@@ -52,8 +57,17 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/pages/ProductList.page">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
+            <state relative-caret-position="-102">
               <caret line="6" column="26" selection-start-line="6" selection-start-column="26" selection-end-line="6" selection-end-column="26" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/pages/ProductPage.page">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="4" column="56" selection-start-line="4" selection-start-column="56" selection-end-line="4" selection-end-column="56" />
             </state>
           </provider>
         </entry>
@@ -61,22 +75,17 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/pages/BuyProduct.page">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="391">
-              <caret line="23" column="26" selection-start-line="23" selection-start-column="26" selection-end-line="23" selection-end-column="26" />
+            <state relative-caret-position="151">
+              <caret line="10" column="81" lean-forward="true" selection-start-line="10" selection-start-column="81" selection-end-line="10" selection-end-column="81" />
             </state>
           </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/classes/ProductTriggerHandler.cls">
-          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/classes/BuyProductController.cls">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="204">
-              <caret line="29" lean-forward="true" selection-start-line="29" selection-end-line="29" />
+            <state relative-caret-position="422">
+              <caret line="64" column="9" lean-forward="true" selection-start-line="64" selection-start-column="9" selection-end-line="64" selection-end-column="9" />
             </state>
           </provider>
         </entry>
@@ -123,10 +132,10 @@
       <list>
         <option value="$PROJECT_DIR$/src/pages/ProductPage.page" />
         <option value="$PROJECT_DIR$/src/pages/ProductList.page" />
-        <option value="$PROJECT_DIR$/src/pages/BuyProduct.page" />
         <option value="$PROJECT_DIR$/src/classes/GetProductController.cls" />
         <option value="$PROJECT_DIR$/src/pages/OkBuyProduct.page" />
         <option value="$PROJECT_DIR$/src/classes/Constants.cls" />
+        <option value="$PROJECT_DIR$/src/pages/BuyProduct.page" />
         <option value="$PROJECT_DIR$/src/classes/BuyProductController.cls" />
       </list>
     </option>
@@ -158,10 +167,10 @@
                 <ConnectionWorkspaceSettings>
                   <option name="buildSuccessDatesBySourceRootRelativePath">
                     <map>
-                      <entry key="CLASSES/BUYPRODUCTCONTROLLER.CLS" value="1538396664357" />
+                      <entry key="CLASSES/BUYPRODUCTCONTROLLER.CLS" value="1538488020301" />
                       <entry key="CLASSES/CONSTANTS.CLS" value="1538470847293" />
                       <entry key="CLASSES/GETPRODUCTCONTROLLER.CLS" value="1538396314939" />
-                      <entry key="PAGES/BUYPRODUCT.PAGE" value="1538394083357" />
+                      <entry key="PAGES/BUYPRODUCT.PAGE" value="1538484440077" />
                       <entry key="PAGES/OKBUYPRODUCT.PAGE" value="1538397259665" />
                       <entry key="PAGES/PRODUCTLIST.PAGE" value="1538050534456" />
                       <entry key="PAGES/PRODUCTPAGE.PAGE" value="1537979243453" />
@@ -1077,11 +1086,10 @@
       </ProjectWorkspaceSettings>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="4">
-    <option name="x" value="993" />
-    <option name="y" value="25" />
-    <option name="width" value="927" />
-    <option name="height" value="1055" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-10" />
+    <option name="width" value="980" />
+    <option name="height" value="790" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectReloadState">
@@ -1127,7 +1135,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="SearchEverywhereHistoryKey" value="hot key&#9;null&#9;null" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../other/t.qqq@gmai.com" />
     <property name="settings.editor.selected.configurable" value="preferences.keymap" />
   </component>
   <component name="RunDashboard">
@@ -1181,13 +1189,14 @@
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.0" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.19530201" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
       <window_info id="UI Designer" order="4" />
       <window_info id="Favorites" order="5" side_tool="true" />
       <window_info id="Capture Tool" order="6" />
+      <window_info anchor="bottom" id="Problems" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" />
@@ -1198,7 +1207,7 @@
       <window_info anchor="bottom" id="Log Viewer" order="7" sideWeight="0.8828932" weight="0.32934782" />
       <window_info anchor="bottom" id="Terminal" order="8" />
       <window_info anchor="bottom" id="SOQL Query" order="9" />
-      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.11710677" side_tool="true" visible="true" weight="0.3319149" />
+      <window_info active="true" anchor="bottom" id="Event Log" order="10" sideWeight="0.11710677" side_tool="true" visible="true" weight="0.22836879" />
       <window_info anchor="bottom" id="Anonymous Apex" order="11" sideWeight="0.8830874" weight="0.329718" />
       <window_info anchor="bottom" id="Version Control" order="12" />
       <window_info anchor="bottom" id="Illuminated Cloud" order="13" />
@@ -1257,42 +1266,11 @@
       </provider>
     </entry>
     <entry file="jar://$APPLICATION_PLUGINS_DIR$/IlluminatedCloud2/lib/IlluminatedCloud.jar!/xsd/visualforce/apex.xsd" />
-    <entry file="file://$PROJECT_DIR$/src/classes/ProductTriggerHandler.cls">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="jar://$USER_HOME$/SF/InternetShop/IlluminatedCloud/t_shkoda_task_com/OfflineSymbolTable.zip!/System/System.cls" />
-    <entry file="file://$PROJECT_DIR$/src/pages/ProductPage.page">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="56" selection-start-line="4" selection-start-column="56" selection-end-line="4" selection-end-column="56" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/pages/ProductList.page">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="26" selection-start-line="6" selection-start-column="26" selection-end-line="6" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/pages/BuyProduct.page">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="23" column="26" selection-start-line="23" selection-start-column="26" selection-end-line="23" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/pages/OkBuyProduct.page">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
           <caret line="6" column="21" selection-start-line="6" selection-start-column="21" selection-end-line="6" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/classes/GetProductController.cls">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" selection-start-line="12" selection-end-line="12" />
         </state>
       </provider>
     </entry>
@@ -1303,10 +1281,47 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/classes/BuyProductController.cls">
+    <entry file="file://$PROJECT_DIR$/src/classes/RawMaterialTrigger.cls">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/classes/ProductTriggerHandler.cls">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pages/ProductList.page">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-102">
+          <caret line="6" column="26" selection-start-line="6" selection-start-column="26" selection-end-line="6" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pages/ProductPage.page">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="56" selection-start-line="4" selection-start-column="56" selection-end-line="4" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/classes/TriggerHandler.cls">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pages/BuyProduct.page">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="151">
+          <caret line="10" column="81" lean-forward="true" selection-start-line="10" selection-start-column="81" selection-end-line="10" selection-end-column="81" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/classes/GetProductController.cls">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="204">
-          <caret line="29" lean-forward="true" selection-start-line="29" selection-end-line="29" />
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/classes/BuyProductController.cls">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="422">
+          <caret line="64" column="9" lean-forward="true" selection-start-line="64" selection-start-column="9" selection-end-line="64" selection-end-column="9" />
         </state>
       </provider>
     </entry>
