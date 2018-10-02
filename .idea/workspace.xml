@@ -2,59 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fd4f7a1b-11dc-4642-990c-9d66fe1b9430" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/classes/Constants.cls" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/classes/Constants.cls-meta.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pages/OkBuyProduct.page" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pages/OkBuyProduct.page-meta.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/IlluminatedCloud/t_shkoda_task_com/OfflineSymbolTable.zip" beforeDir="false" afterPath="$PROJECT_DIR$/IlluminatedCloud/t_shkoda_task_com/OfflineSymbolTable.zip" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/classes/BuyProductController.cls" beforeDir="false" afterPath="$PROJECT_DIR$/src/classes/BuyProductController.cls" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/classes/GetProductController.cls" beforeDir="false" afterPath="$PROJECT_DIR$/src/classes/GetProductController.cls" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/layouts/Contacts__c-Contacts Layout.layout" beforeDir="false" afterPath="$PROJECT_DIR$/src/layouts/Contacts__c-Contacts Layout.layout" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/objects/Contacts__c.object" beforeDir="false" afterPath="$PROJECT_DIR$/src/objects/Contacts__c.object" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/BuyProduct.page" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/BuyProduct.page" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/BuyProduct.page-meta.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/BuyProduct.page-meta.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/ProductList.page" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/ProductList.page" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/ProductPage.page" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/ProductPage.page" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/ProductPage.page-meta.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/ProductPage.page-meta.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/profiles/Admin.profile" beforeDir="false" afterPath="$PROJECT_DIR$/src/profiles/Admin.profile" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/profiles/Analytics Cloud Integration User.profile" beforeDir="false" afterPath="$PROJECT_DIR$/src/profiles/Analytics Cloud Integration User.profile" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/profiles/Analytics Cloud Security User.profile" beforeDir="false" afterPath="$PROJECT_DIR$/src/profiles/Analytics Cloud Security User.profile" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/profiles/Authenticated Website.profile" beforeDir="false" afterPath="$PROJECT_DIR$/src/profiles/Authenticated Website.profile" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/profiles/CPQ Integration User.profile" beforeDir="false" afterPath="$PROJECT_DIR$/src/profiles/CPQ Integration User.profile" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/profiles/Chatter External User.profile" beforeDir="false" afterPath="$PROJECT_DIR$/src/profiles/Chatter External User.profile" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/profiles/Chatter Free User.profile" beforeDir="false" afterPath="$PROJECT_DIR$/src/profiles/Chatter Free User.profile" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/profiles/Chatter Moderator User.profile" beforeDir="false" afterPath="$PROJECT_DIR$/src/profiles/Chatter Moderator User.profile" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/profiles/ContractManager.profile" beforeDir="false" afterPath="$PROJECT_DIR$/src/profiles/ContractManager.profile" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/profiles/Cross Org Data Proxy User.profile" beforeDir="false" afterPath="$PROJECT_DIR$/src/profiles/Cross Org Data Proxy User.profile" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/profiles/Custom%3A Marketing Profile.profile" beforeDir="false" afterPath="$PROJECT_DIR$/src/profiles/Custom%3A Marketing Profile.profile" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/profiles/Custom%3A Sales Profile.profile" beforeDir="false" afterPath="$PROJECT_DIR$/src/profiles/Custom%3A Sales Profile.profile" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/profiles/Custom%3A Support Profile.profile" beforeDir="false" afterPath="$PROJECT_DIR$/src/profiles/Custom%3A Support Profile.profile" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/profiles/Customer Community Login User.profile" beforeDir="false" afterPath="$PROJECT_DIR$/src/profiles/Customer Community Login User.profile" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/profiles/Customer Community Plus Login User.profile" beforeDir="false" afterPath="$PROJECT_DIR$/src/profiles/Customer Community Plus Login User.profile" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/profiles/Customer Community Plus User.profile" beforeDir="false" afterPath="$PROJECT_DIR$/src/profiles/Customer Community Plus User.profile" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/profiles/Customer Community User.profile" beforeDir="false" afterPath="$PROJECT_DIR$/src/profiles/Customer Community User.profile" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/profiles/Customer Portal Manager Custom.profile" beforeDir="false" afterPath="$PROJECT_DIR$/src/profiles/Customer Portal Manager Custom.profile" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/profiles/Customer Portal Manager Standard.profile" beforeDir="false" afterPath="$PROJECT_DIR$/src/profiles/Customer Portal Manager Standard.profile" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/profiles/External Identity User.profile" beforeDir="false" afterPath="$PROJECT_DIR$/src/profiles/External Identity User.profile" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/profiles/Force%2Ecom - App Subscription User.profile" beforeDir="false" afterPath="$PROJECT_DIR$/src/profiles/Force%2Ecom - App Subscription User.profile" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/profiles/Force%2Ecom - Free User.profile" beforeDir="false" afterPath="$PROJECT_DIR$/src/profiles/Force%2Ecom - Free User.profile" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/profiles/Gold Partner User.profile" beforeDir="false" afterPath="$PROJECT_DIR$/src/profiles/Gold Partner User.profile" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/profiles/High Volume Customer Portal User.profile" beforeDir="false" afterPath="$PROJECT_DIR$/src/profiles/High Volume Customer Portal User.profile" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/profiles/HighVolumePortal.profile" beforeDir="false" afterPath="$PROJECT_DIR$/src/profiles/HighVolumePortal.profile" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/profiles/Identity User.profile" beforeDir="false" afterPath="$PROJECT_DIR$/src/profiles/Identity User.profile" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/profiles/MarketingProfile.profile" beforeDir="false" afterPath="$PROJECT_DIR$/src/profiles/MarketingProfile.profile" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/profiles/Partner App Subscription User.profile" beforeDir="false" afterPath="$PROJECT_DIR$/src/profiles/Partner App Subscription User.profile" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/profiles/Partner Community Login User.profile" beforeDir="false" afterPath="$PROJECT_DIR$/src/profiles/Partner Community Login User.profile" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/profiles/Partner Community User.profile" beforeDir="false" afterPath="$PROJECT_DIR$/src/profiles/Partner Community User.profile" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/profiles/PlatformPortal.profile" beforeDir="false" afterPath="$PROJECT_DIR$/src/profiles/PlatformPortal.profile" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/profiles/ReadOnly.profile" beforeDir="false" afterPath="$PROJECT_DIR$/src/profiles/ReadOnly.profile" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/profiles/Silver Partner User.profile" beforeDir="false" afterPath="$PROJECT_DIR$/src/profiles/Silver Partner User.profile" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/profiles/SolutionManager.profile" beforeDir="false" afterPath="$PROJECT_DIR$/src/profiles/SolutionManager.profile" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/profiles/Standard.profile" beforeDir="false" afterPath="$PROJECT_DIR$/src/profiles/Standard.profile" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/profiles/StandardAul.profile" beforeDir="false" afterPath="$PROJECT_DIR$/src/profiles/StandardAul.profile" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/profiles/Work%2Ecom Only User.profile" beforeDir="false" afterPath="$PROJECT_DIR$/src/profiles/Work%2Ecom Only User.profile" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/t.shkoda@task.com.iml" beforeDir="false" afterPath="$PROJECT_DIR$/t.shkoda@task.com.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/classes/Constants.cls" beforeDir="false" afterPath="$PROJECT_DIR$/src/classes/Constants.cls" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -87,12 +36,12 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="cls" value="210" />
+          <entry key="cls" value="241" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="Apex" value="210" />
+          <entry key="Apex" value="241" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.vcs.git.usages" />
@@ -100,65 +49,52 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="BuyProduct.page" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/pages/BuyProduct.page">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="15">
-              <caret line="1" column="4" lean-forward="true" selection-start-line="1" selection-start-column="4" selection-end-line="1" selection-end-column="40" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="BuyProductController.cls" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/classes/BuyProductController.cls">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="462">
-              <caret line="46" column="29" selection-start-line="46" selection-start-column="29" selection-end-line="46" selection-end-column="29" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="OkBuyProduct.page" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/pages/OkBuyProduct.page">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="6" column="21" selection-start-line="6" selection-start-column="21" selection-end-line="6" selection-end-column="21" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Constants.cls" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/classes/Constants.cls">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="6" column="37" lean-forward="true" selection-start-line="6" selection-start-column="31" selection-end-line="6" selection-end-column="37" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ProductPage.page" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/pages/ProductPage.page">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="4" column="56" selection-start-line="4" selection-start-column="56" selection-end-line="4" selection-end-column="56" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="GetProductController.cls" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/classes/GetProductController.cls">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
-              <caret line="11" column="5" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ProductList.page" pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/pages/ProductList.page">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="7" column="26" lean-forward="true" selection-start-line="7" selection-start-column="26" selection-end-line="7" selection-end-column="26" />
+            <state relative-caret-position="102">
+              <caret line="6" column="26" selection-start-line="6" selection-start-column="26" selection-end-line="6" selection-end-column="26" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/pages/BuyProduct.page">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="391">
+              <caret line="23" column="26" selection-start-line="23" selection-start-column="26" selection-end-line="23" selection-end-column="26" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/classes/ProductTriggerHandler.cls">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/classes/BuyProductController.cls">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="204">
+              <caret line="29" lean-forward="true" selection-start-line="29" selection-end-line="29" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/classes/GetProductController.cls">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="204">
+              <caret line="12" selection-start-line="12" selection-end-line="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/classes/Constants.cls">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="221">
+              <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
             </state>
           </provider>
         </entry>
@@ -188,10 +124,10 @@
         <option value="$PROJECT_DIR$/src/pages/ProductPage.page" />
         <option value="$PROJECT_DIR$/src/pages/ProductList.page" />
         <option value="$PROJECT_DIR$/src/pages/BuyProduct.page" />
-        <option value="$PROJECT_DIR$/src/classes/Constants.cls" />
         <option value="$PROJECT_DIR$/src/classes/GetProductController.cls" />
-        <option value="$PROJECT_DIR$/src/classes/BuyProductController.cls" />
         <option value="$PROJECT_DIR$/src/pages/OkBuyProduct.page" />
+        <option value="$PROJECT_DIR$/src/classes/Constants.cls" />
+        <option value="$PROJECT_DIR$/src/classes/BuyProductController.cls" />
       </list>
     </option>
   </component>
@@ -223,7 +159,7 @@
                   <option name="buildSuccessDatesBySourceRootRelativePath">
                     <map>
                       <entry key="CLASSES/BUYPRODUCTCONTROLLER.CLS" value="1538396664357" />
-                      <entry key="CLASSES/CONSTANTS.CLS" value="1538395195230" />
+                      <entry key="CLASSES/CONSTANTS.CLS" value="1538470847293" />
                       <entry key="CLASSES/GETPRODUCTCONTROLLER.CLS" value="1538396314939" />
                       <entry key="PAGES/BUYPRODUCT.PAGE" value="1538394083357" />
                       <entry key="PAGES/OKBUYPRODUCT.PAGE" value="1538397259665" />
@@ -1156,8 +1092,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="AndroidView" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -1186,7 +1121,8 @@
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
+      <pane id="AndroidView" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -1242,133 +1178,77 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="993" y="25" width="927" height="1055" extended-state="4" />
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info anchor="bottom" id="Illuminated Cloud" order="7" />
-      <window_info anchor="right" id="Palette" order="3" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Messages" order="7" sideWeight="0.8096292" weight="0.329718" />
-      <window_info anchor="right" id="Palette&#9;" order="3" />
-      <window_info id="Image Layers" order="2" />
-      <window_info anchor="right" id="Capture Analysis" order="3" />
-      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.11710677" side_tool="true" visible="true" weight="0.29175705" />
-      <window_info anchor="bottom" id="Anonymous Apex" order="7" sideWeight="0.8830874" weight="0.329718" />
-      <window_info anchor="right" id="Maven Projects" order="3" />
-      <window_info anchor="bottom" id="Run" order="2" />
-      <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Terminal" order="7" />
-      <window_info id="Capture Tool" order="2" />
-      <window_info id="Designer" order="2" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.32576618" />
-      <window_info anchor="bottom" id="SOQL Query" order="7" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.0" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Log Viewer" order="7" sideWeight="0.8828932" weight="0.32934782" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info id="UI Designer" order="2" />
-      <window_info anchor="right" id="Theme Preview" order="3" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="bottom" id="Find" order="1" />
-    </layout>
-    <layout-to-restore>
-      <window_info anchor="bottom" id="Log Viewer" order="8" />
       <window_info id="Designer" order="2" />
-      <window_info anchor="right" id="Palette&#9;" order="3" />
-      <window_info anchor="right" id="Palette" order="4" />
       <window_info id="Image Layers" order="3" />
-      <window_info anchor="bottom" id="Run" order="3" />
-      <window_info anchor="bottom" id="Cvs" order="5" weight="0.25" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="4" />
       <window_info id="Favorites" order="5" side_tool="true" />
-      <window_info anchor="bottom" id="Terminal" order="9" />
       <window_info id="Capture Tool" order="6" />
-      <window_info anchor="right" id="Capture Analysis" order="5" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Log Viewer" order="7" sideWeight="0.8828932" weight="0.32934782" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="SOQL Query" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.11710677" side_tool="true" visible="true" weight="0.3319149" />
+      <window_info anchor="bottom" id="Anonymous Apex" order="11" sideWeight="0.8830874" weight="0.329718" />
+      <window_info anchor="bottom" id="Version Control" order="12" />
+      <window_info anchor="bottom" id="Illuminated Cloud" order="13" />
+      <window_info anchor="bottom" id="Messages" order="14" sideWeight="0.8096292" weight="0.329718" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info active="true" anchor="bottom" id="Event Log" order="10" sideWeight="0.19037078" side_tool="true" visible="true" weight="0.329718" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Maven Projects" order="5" />
+      <window_info anchor="right" id="Palette&#9;" order="6" />
+      <window_info anchor="right" id="Theme Preview" order="7" />
+    </layout>
+    <layout-to-restore>
+      <window_info content_ui="combo" id="Project" order="0" weight="0.32946634" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Favorites" order="5" side_tool="true" />
+      <window_info id="Capture Tool" order="6" />
+      <window_info anchor="bottom" id="Illuminated Cloud" order="0" />
+      <window_info anchor="bottom" id="Message" order="1" />
+      <window_info anchor="bottom" id="Find" order="2" />
+      <window_info anchor="bottom" id="Run" order="3" />
+      <window_info anchor="bottom" id="Debug" order="4" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="5" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="6" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="7" />
+      <window_info anchor="bottom" id="Log Viewer" order="8" />
+      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info active="true" anchor="bottom" id="Event Log" order="10" sideWeight="0.19037078" side_tool="true" visible="true" weight="0.329718" />
       <window_info anchor="bottom" id="Anonymous Apex" order="11" sideWeight="0.8828306" weight="0.329718" />
       <window_info anchor="bottom" id="Version Control" order="12" />
-      <window_info anchor="right" id="Maven Projects" order="6" />
-      <window_info anchor="bottom" id="Illuminated Cloud" order="0" />
-      <window_info content_ui="combo" id="Project" order="0" weight="0.32946634" />
       <window_info anchor="bottom" id="Messages" order="13" sideWeight="0.8096292" weight="0.329718" />
-      <window_info anchor="bottom" id="Message" order="1" />
-      <window_info anchor="bottom" id="TODO" order="7" />
       <window_info anchor="bottom" id="SOQL Query" order="14" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette&#9;" order="3" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+      <window_info anchor="right" id="Maven Projects" order="6" />
       <window_info anchor="right" id="Theme Preview" order="7" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="6" weight="0.4" />
-      <window_info anchor="bottom" id="Find" order="2" />
-      <window_info anchor="bottom" id="Debug" order="4" weight="0.4" />
     </layout-to-restore>
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/pages/ProductList.page">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="20" column="39" selection-start-line="20" selection-start-column="39" selection-end-line="20" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/pages/BuyProduct.page">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="59" selection-start-line="9" selection-start-column="59" selection-end-line="9" selection-end-column="59" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/pages/ProductPage.page">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="56" selection-start-line="4" selection-start-column="56" selection-end-line="4" selection-end-column="56" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/classes/BuyProductController.cls">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" selection-start-line="12" selection-end-line="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/pages/ProductList.page">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="16" selection-start-line="5" selection-start-column="16" selection-end-line="5" selection-end-column="87" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/classes/BuyProductController.cls">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" selection-start-line="12" selection-end-line="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/pages/ProductPage.page">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="56" selection-start-line="4" selection-start-column="46" selection-end-line="4" selection-end-column="56" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/pages/BuyProduct.page">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="49" lean-forward="true" selection-start-column="49" selection-end-column="49" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/.idea/.name">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -1376,30 +1256,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://$APPLICATION_PLUGINS_DIR$/IlluminatedCloud2/lib/IlluminatedCloud.jar!/xsd/visualforce/apex.xsd">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="197">
-          <caret line="1725" column="4" selection-start-line="1725" selection-start-column="4" selection-end-line="1725" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="jar://$APPLICATION_PLUGINS_DIR$/IlluminatedCloud2/lib/IlluminatedCloud.jar!/xsd/visualforce/apex.xsd" />
     <entry file="file://$PROJECT_DIR$/src/classes/ProductTriggerHandler.cls">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="jar://$USER_HOME$/SF/InternetShop/IlluminatedCloud/t_shkoda_task_com/OfflineSymbolTable.zip!/System/System.cls">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="24" selection-start-line="2" selection-start-column="24" selection-end-line="2" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/classes/GetProductController.cls">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" column="5" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="jar://$USER_HOME$/SF/InternetShop/IlluminatedCloud/t_shkoda_task_com/OfflineSymbolTable.zip!/System/System.cls" />
     <entry file="file://$PROJECT_DIR$/src/pages/ProductPage.page">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
@@ -1407,31 +1268,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/classes/Constants.cls">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="37" lean-forward="true" selection-start-line="6" selection-start-column="31" selection-end-line="6" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/pages/ProductList.page">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="26" lean-forward="true" selection-start-line="7" selection-start-column="26" selection-end-line="7" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/classes/BuyProductController.cls">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="462">
-          <caret line="46" column="29" selection-start-line="46" selection-start-column="29" selection-end-line="46" selection-end-column="29" />
+        <state relative-caret-position="102">
+          <caret line="6" column="26" selection-start-line="6" selection-start-column="26" selection-end-line="6" selection-end-column="26" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/pages/BuyProduct.page">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="1" column="4" lean-forward="true" selection-start-line="1" selection-start-column="4" selection-end-line="1" selection-end-column="40" />
+        <state relative-caret-position="391">
+          <caret line="23" column="26" selection-start-line="23" selection-start-column="26" selection-end-line="23" selection-end-column="26" />
         </state>
       </provider>
     </entry>
@@ -1439,6 +1286,27 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
           <caret line="6" column="21" selection-start-line="6" selection-start-column="21" selection-end-line="6" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/classes/GetProductController.cls">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/classes/Constants.cls">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/classes/BuyProductController.cls">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="29" lean-forward="true" selection-start-line="29" selection-end-line="29" />
         </state>
       </provider>
     </entry>

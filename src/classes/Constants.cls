@@ -1,14 +1,14 @@
 public with sharing class Constants {
 
-    private String record;
+    private String recordTypeProduct;
     Public String RecordTypeForProduct {
         get{
-            return record;
+            return recordTypeProduct;
         }
         private set{}
     }
     public Constants() {
-        record = 'Sold';
+        recordTypeProduct = 'Sold';
     }
 
 
