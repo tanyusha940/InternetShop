@@ -31,7 +31,7 @@ public with sharing class BuyProductController {
     public PageReference BuyProduct(){
         CreateContact();
         CurrentProduct.get(0).Amount__c = CurrentProduct.get(0).Amount__c-1;
-        RecordType recordType = [SELECT Id, Name FROM RecordType Where Name = 'Sold'  and SobjectType ='Product__c'];
+        RecordType recordType = [SELECT Id, Name FROM RecordType Where Name =: constants.RecordTypeForProduct  and SobjectType ='Product__c'];
         System.Debug(constants.RecordTypeForProduct);
         CopyBuyProduct = new Product__c(
                 RecordTypeId = recordType.Id,

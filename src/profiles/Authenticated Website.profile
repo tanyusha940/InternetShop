@@ -818,6 +818,11 @@
     </fieldPermissions>
     <fieldPermissions>
         <editable>false</editable>
+        <field>Discount__c.Account__c</field>
+        <readable>false</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>false</editable>
         <field>Discount__c.Discount_Code__c</field>
         <readable>false</readable>
     </fieldPermissions>
