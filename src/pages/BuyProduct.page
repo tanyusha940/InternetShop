@@ -7,8 +7,8 @@
                         <apex:inputField value="{!CurrentContact.Email__c}" />
                         <apex:inputField value="{!CurrentContact.Name}" required="true"/>
                         <apex:inputField value="{!CurrentContact.Phone__c}" />
-                        <apex:inputField value="{!CurrentDiscount.Discount_Code__c}"/>
-                        <apex:commandButton action="{!BuyProduct}" value="Buy" />
+                        <apex:inputField value="{!CurrentDiscount.Discount_Code__c}" style="{!IF(DiscountForAccount, 'display:none', 'display:block')}"/>
+                        <apex:commandButton action="{!BuyProduct}" value="Buy" onclick="window.open()"  />
                     </apex:pageBlockSection>
                 </apex:form>
             </apex:column>

@@ -591,6 +591,10 @@
                             <option name="name" value="Constants" />
                             <option name="selected" value="true" />
                           </MetadataEntry>
+                          <MetadataEntry>
+                            <option name="name" value="Sales" />
+                            <option name="selected" value="true" />
+                          </MetadataEntry>
                         </list>
                       </option>
                       <option name="name" value="ApexClass" />
@@ -770,6 +774,18 @@
                           </MetadataEntry>
                           <MetadataEntry>
                             <option name="name" value="Work%2Ecom Only User" />
+                            <option name="selected" value="true" />
+                          </MetadataEntry>
+                          <MetadataEntry>
+                            <option name="name" value="Guest" />
+                            <option name="selected" value="true" />
+                          </MetadataEntry>
+                          <MetadataEntry>
+                            <option name="name" value="ProductShop Profile" />
+                            <option name="selected" value="true" />
+                          </MetadataEntry>
+                          <MetadataEntry>
+                            <option name="name" value="Shop Profile" />
                             <option name="selected" value="true" />
                           </MetadataEntry>
                         </list>
@@ -1289,6 +1305,10 @@
                           </MetadataEntry>
                           <MetadataEntry>
                             <option name="name" value="WorkPerformanceCycle-Performance Cycle Layout - Winter %2716" />
+                            <option name="selected" value="true" />
+                          </MetadataEntry>
+                          <MetadataEntry>
+                            <option name="name" value="AccountBrand-Account BrandLayout" />
                             <option name="selected" value="true" />
                           </MetadataEntry>
                         </list>
